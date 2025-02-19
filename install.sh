@@ -7,9 +7,10 @@ if [ -f /etc/os-release ]; then
     # Check if the OS is Ubuntu and if the version ID starts with '20'
     if [ "$ID" = "ubuntu" ] && [[ "$VERSION_ID" =~ ^20 ]]; then
          echo "$PRETTY_NAME"
-	 pip3 install together
+	     pip3 install together
     	 pip3 install nltk
     	 pip3 install pandas
+         python3 -m nltk.downloader punkt punkt_tab
 	 exit 0
     fi
 fi
@@ -26,6 +27,7 @@ if [[ "$answer" == "Y" || "$answer" == "y" ]]; then
     pip3 install together
     pip3 install nltk
     pip3 install pandas
+    python3 -m nltk.downloader punkt punkt_tab
     
 else
     echo "Execution cancelled."
