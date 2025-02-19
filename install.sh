@@ -10,7 +10,7 @@ if [ -f /etc/os-release ]; then
 	     pip3 install together
     	 pip3 install nltk
     	 pip3 install pandas
-         python3 -m nltk.downloader punkt punkt_tab
+         python3 -m nltk.downloader punkt punkt_tab wordnet
 	 exit 0
     fi
 fi
@@ -27,7 +27,7 @@ if [[ "$answer" == "Y" || "$answer" == "y" ]]; then
     pip3 install together
     pip3 install nltk
     pip3 install pandas
-    python3 -m nltk.downloader punkt punkt_tab
+    python3 -m nltk.downloader punkt punkt_tab wordnet
     
 else
     echo "Execution cancelled."
