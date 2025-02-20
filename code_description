@@ -1,0 +1,65 @@
+The code includes those key Components.
+
+We can see they in the PROMPT_TEMPLATES.
+
+PROMPT_TEMPLATES = {
+
+    "example_based": {...},
+
+    "code_like": {...},
+
+    "repetition_emphasis": {...},
+
+    "negative_positive_instruction": {...},
+
+    "keyword_driven": {...}
+
+}
+
+It has 5 distinct prompting strategies.
+
+Each prompting strategy matches one method in the paper.
+
+
+
+def claimed_text(api_key, text, prompt_type="example_based", **kwargs):
+
+It is the main handling function, it is the core of the project. The function handles text standardization through LLM API interactions. Generates standardized claims from unstructured text input using specified prompt engineering strategies via the Together API.
+
+ 
+
+read_file(file_path)
+
+Safely read the contents of a text file
+
+
+
+get_score(references, candidate)
+
+Calculate the METEOR similarity score between the generated text and the reference text.
+
+
+
+Code structure:
+
+Data Flow: CSV Input → Prompt Engineering → API Call → Result Evaluation → Statistical Analysis  
+
+                      ↓                       ↓  
+
+                Template Selection      METEOR Calculation  
+
+
+
+Exception Handling:  
+
+  File operations → Multi-level try-except  
+
+  API calls → Generic exception catching  
+
+
+
+Design Patterns:  
+
+  Template Method Pattern (PROMPT_TEMPLATES)  
+
+  Strategy Pattern (prompt_type selection)
