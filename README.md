@@ -22,9 +22,15 @@ This command is run directly in code like mode. Note that you need to create the
 
 .
 ├── install.sh             # Environment setup script
+
 ├── nor_*.py               # Method entry files
+
 ├── train_eng.csv          # Input dataset
+
 ├── requirements.txt       # Python dependencies
+
 └── *.txt                  # Auto-generated result files
+
 └── report_1.pdf           # report about this project and method and data
+
 └── code_description       # The Python code structure description, function by function
