@@ -31,5 +31,5 @@ llama_llama.py refers to the two llama models for processing text before and aft
     ├── install.sh             # Environment setup script
     ├── README.md               # Readme file
     ├── s1                     # submission one files
-    └── s2                     # submission two files
-    └── s2/report_of_S2.pdf    # submission two files
+    ├── s2                     # submission two files
+    └── s2/report_of_S2.pdf    # report of submission two
