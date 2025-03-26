@@ -14,26 +14,24 @@ if your system is not ubuntu20.04, you can force script to install but we are no
 
 Create result container file
 
-touch code_like.txt
+touch xxxx.txt
 
 ### Execute processor
 
-python3 nor_code_like.py
+cd s2
 
+python3 llama_llama.py
 
 This command is run directly in code like mode. Note that you need to create the corresponding file before running the Python script.
 
+llama_llama.py refers to the two llama models for processing text before and after. openai_openai.py refers to the two gpt models for processing text before and after.
+
 .
+
 ├── install.sh             # Environment setup script
 
-├── nor_*.py               # Method entry files
+├── README.md               # Readme file
 
-├── train_eng.csv          # Input dataset
+├── s1                     # submission one files
 
-├── requirements.txt       # Python dependencies
-
-└── *.txt                  # Auto-generated result files
-
-└── report_1.pdf           # report about this project and method and data
-
-└── code_description       # The Python code structure description, function by function
+└── s2                     # submission two files
