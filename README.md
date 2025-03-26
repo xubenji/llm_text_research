@@ -14,6 +14,8 @@ if your system is not ubuntu20.04, you can force script to install but we are no
 
 Create result container file
 
+cd s2 
+
 touch xxxx.txt
 
 ### Execute processor
