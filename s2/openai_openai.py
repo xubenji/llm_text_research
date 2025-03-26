@@ -1,15 +1,15 @@
 import openai
 import pandas as pd
 from nltk.translate.meteor_score import meteor_score
-from nltk import word_tokenize  # 导入分词器
+from nltk import word_tokenize  # Import tokenizer
 import statistics
 import os
 import time
 
-# 读取 CSV 文件（请替换为你的 CSV 文件路径）
+# Read CSV file (please replace with your CSV file path)
 df = pd.read_csv("train-eng.csv")
 
-# 自定义 Prompts 模板（保持不变）
+# Custom Prompts templates (remain unchanged)
 PROMPT_TEMPLATES = {
     "filter_1": {
         "system": (
@@ -32,21 +32,21 @@ PROMPT_TEMPLATES = {
 
 def claimed_text(api_key, text, prompt_type, **kwargs):
     """
-    使用 OpenAI API 对文本进行处理，生成摘要/标准化声明
+    Process text using the OpenAI API to generate a summary/standardized claim
 
     Args:
-        api_key (str): OpenAI API 密钥
-        text (str): 输入文本
-        prompt_type (str): 使用的 prompt 模板，默认为 "repetition_emphasis"
-        **kwargs: 可覆盖的额外模型参数
+        api_key (str): OpenAI API key
+        text (str): Input text
+        prompt_type (str): The prompt template to use, default is "repetition_emphasis"
+        **kwargs: Additional model parameters that can be overridden
 
     Returns:
-        str: 生成的文本
+        str: Generated text
     """
     openai.api_key = api_key
     template = PROMPT_TEMPLATES.get(prompt_type, PROMPT_TEMPLATES["repetition_emphasis"])
     try:
-        # 构建消息列表
+        # Construct the list of messages
         messages = [
             {"role": "system", "content": template["system"]},
             {"role": "user", "content": template["user_prefix"] + text}
@@ -59,30 +59,30 @@ def claimed_text(api_key, text, prompt_type, **kwargs):
             "top_p": 0.9,
             "stop": ["<|eot_id|>", "<|eom_id|>"],
         }
-        params.update(kwargs)  # 允许覆盖参数
+        params.update(kwargs)  # Allow parameter override
 
         response = openai.ChatCompletion.create(**params)
         return response.choices[0].message.content.strip()
     except Exception as e:
-        print(f"API 调用失败: {str(e)}")
-        print(f"sleep 60s!")
-        time.sleep(60)  # 暂停程序 60 秒
+        print(f"API call failed: {str(e)}")
+        print("Sleeping for 60s!")
+        time.sleep(60)  # Pause the program for 60 seconds
         return claimed_text(api_key, text, prompt_type)
 
 def read_file(file_path):
-    """读取文本文件内容"""
+    """Read the contents of a text file"""
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
             return f.read().strip()
     except FileNotFoundError:
-        print(f"错误：文件 {file_path} 不存在")
+        print(f"Error: File {file_path} does not exist")
         return None
     except Exception as e:
-        print(f"读取文件失败: {str(e)}")
+        print(f"Failed to read file: {str(e)}")
         return None
 
 def get_score(references, candidate):
-    """计算 METEOR 得分"""
+    """Calculate the METEOR score"""
     
     print(candidate)
     print(references)
@@ -95,14 +95,14 @@ def get_score(references, candidate):
 
 if __name__ == "__main__":
     output_file = "openai4_openai4.result"
-    # 初始化输出文件，写入标题行
+    # Initialize the output file and write the header line
     try:
         with open(output_file, 'w', encoding='utf-8') as f:
             f.write("Index\tAvgScore\tScore\tNormalizedClaim\tText\n")
     except Exception as e:
-        print(f"初始化输出文件失败: {str(e)}")
+        print(f"Failed to initialize output file: {str(e)}")
 
-    # 检查 API 密钥（建议通过环境变量设置）
+    # Check API key (recommended to set via environment variable)
     API_KEY = os.getenv("OPENAI_API_KEY")
 
     if all(col in df.columns for col in ["post", "normalized claim"]):
@@ -116,10 +116,10 @@ if __name__ == "__main__":
             input_text = row['post']
             normal_claim = row['normalized claim']
 
-            # 第一步：调用 filter_1 模板进行预处理
+            # Step 1: Call the filter_1 template for preprocessing
             text = claimed_text(API_KEY, input_text, prompt_type="filter_1")
             print("After filter_1: " + str(text))
-            # 第二步：调用 repetition_emphasis 模板进行标准化
+            # Step 2: Call the repetition_emphasis template for standardization
             text = claimed_text(API_KEY, input_text, prompt_type="repetition_emphasis")
             prefix = "Claim:"
             if text.startswith(prefix):
@@ -131,14 +131,14 @@ if __name__ == "__main__":
                 all_score += score
                 avg_score = all_score / index
                 print(f"{index}\tMETEOR Score: {score:.4f}\tAVG METEOR Score: {avg_score:.4f}")
-                # 将结果追加写入文件
+                # Append the results to the output file
                 with open(output_file, 'a', encoding='utf-8') as f:
                     f.write(f"{index}\t{avg_score:.4f}\t{score:.4f}\t{text}\t{normal_claim}\t\n")
             else:
-                print("摘要生成失败")
+                print("Summary generation failed")
         
         median_score = statistics.median(scores)
-        # 更新文件第一行写入平均分和中位数分
+        # Update the first line of the file with the average and median scores
         with open(output_file, "r+", encoding="utf-8") as f:
             original_content = f.read()
             f.seek(0, 0)

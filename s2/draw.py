@@ -11,18 +11,18 @@ model_scores = [0.2191, 0.2602, 0.2241]
 
 # Create x positions for both groups
 x_prompts = np.arange(len(prompt_labels))
-# 在两组数据之间留出一定间隔（这里选择1个单位）
+# Leave a gap between the two groups (choosing 1 unit here)
 x_models = np.arange(len(model_labels)) + len(prompt_labels) + 1
 
 plt.figure(figsize=(12, 6))
 
-# 绘制 prompt 组的柱状图
+# Plot the bar chart for the prompt group
 plt.bar(x_prompts, prompt_scores, color='skyblue', label='Prompts')
 
-# 绘制模型组合组的柱状图
+# Plot the bar chart for the model combination group
 plt.bar(x_models, model_scores, color='salmon', label='Model Combinations')
 
-# 合并两组的 x 轴刻度及标签
+# Combine the x-axis ticks and labels for both groups
 all_x = np.concatenate([x_prompts, x_models])
 all_labels = prompt_labels + model_labels
 plt.xticks(all_x, all_labels, rotation=45)
