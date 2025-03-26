@@ -22,7 +22,6 @@ Create result container file
     cd s2
     python3 llama_llama.py
 
-This command is run directly in code like mode. Note that you need to create the corresponding file before running the Python script.
 
 llama_llama.py refers to the two llama models for processing text before and after. openai_openai.py refers to the two gpt models for processing text before and after.
 
