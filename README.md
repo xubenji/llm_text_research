@@ -24,7 +24,7 @@ Create result container file
 
 
 llama_llama.py refers to the two llama models for processing text before and after. openai_openai.py refers to the two gpt models for processing text before and after.
-
+before any openai model(gpt4, gpt4o), you need set up OPENAI_API_KEY=xxxxxx upfront.
 
 
     .
