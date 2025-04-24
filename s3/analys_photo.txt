@@ -1,0 +1,640 @@
+Index	AvgScore	Score	NormalizedClaim	Text
+2	0.5604	0.5604	This leopard cub's mother was killed by a trophy hunter	A baby animal with sad eyes, likely an orphaned cub, after its mother was killed by a hunter.
+5	0.4319	0.3035	Photo shows August 26, 2021 explosion near Kabul airport	Explosion outside Kabul airport, 40 dead, 120 injured, chaos erupts.
+7	0.4117	0.3713	This video shows Amitabh Bachchan thanking healthcare workers after he was hospitalised for COVID-19 in July 2020	Amitabh Bachchan in a hospital bed, likely recording a video after testing positive for Covid-19.
+9	0.3270	0.0730	American Medical Association Rescinds Previous Statement Against Prescription of Hydroxychloroquine to COVID-19 Patients.	A person criticizing an ex-US president's stance on hydroxychloroquine.
+10	0.2739	0.0615	Brazilains participating in India’s nationwide COVID-19 candle light vigil, which Indian Prime Minister Narendra Modi called for on April 3, 2020.	Brazilian TV channels broadcast Indian PM Modi's speech.
+12	0.2426	0.0862	Photo shows Sri Lankan police during a drug bust operation that turned violent in Atulugama in September 2020	A photo of a beautiful moon over Athalugama, Sri Lanka.
+13	0.2223	0.1000	Accurate description of photos showing the difference in attendance in various parliamentary sessions in Australia	A photo of a parliament or legislative building with people debating various social issues.
+14	0.2456	0.4090	Photo shows anti-vaccine passport protest in France	Protesters in France holding signs against medical mandates.
+17	0.2408	0.2023	This video shows only Islamic prayer was played during Delhi's tableau at Republic Day parade	A Republic Day tableau in Delhi with "AllahHuAkbar" inscription.
+19	0.2378	0.2112	750,000 people attended anti-lockdown rally in London on April 24, 2021	A photo of a massive London Freedom March with 750,000 people protesting.
+21	0.2364	0.2222	Video shows Russian soldiers landing in Ukraine in 2022	Russian paratroopers landing in Ukraine, near Kharkov.
+22	0.2199	0.0388	Philippines lifts coronavirus restrictions on basketball games in November 2020 for entire country	A photo of an executive order allowing basketball with same-barangay players.
+27	0.2139	0.1408	Images show colossal ancient tree stumps	A photo of a petrified tree trunk with a mysterious, ancient, and mystical atmosphere.
+32	0.2106	0.1689	Philippine department of health releases guideline on appropriate COVID-19 face shields	A person is questioning Sec. Duque about face shield specifications.
+33	0.2214	0.3717	Liberal Party of Canada plans to tax capital gains on home sales	A proposed 50% tax on home sales to deter speculators.
+36	0.2176	0.1613	Thousands of Russian Army soldiers parachute into Ukraine.	Russian paratroopers landing in Ukraine, near Kharkov, amidst war.
+37	0.2312	0.4483	Photos of 75-year-old American woman	Photo of a 54-year-old woman who appears younger than her age.
+39	0.2378	0.3501	United States crime statistics in 2015	A graphic displaying 2015 US crime statistics, with racial breakdowns of killings by police and other groups.
+40	0.2336	0.1576	Video of footballer Andre Gomes' ankle being pushed back into place	Photo: Andre Gomes lying injured, Son Heung-min nearby.
+42	0.2253	0.0685	Dischem pharmacy mocks rival over racism row	An advertisement for Dis-Chem pharmacies with a playful greeting.
+43	0.2182	0.0758	South Africans can refuse COVID-19 isolation	A warning post about COVID-19, advising self-quarantine and home remedies.
+47	0.2261	0.3912	Photo shows recent anti-lockdown and anti-vaccination protests organised in France.	Protesters in yellow vests demonstrating against Macron's lockdown and vaccine policies in France.
+48	0.2210	0.1099	Fauci is alone in saying hydroxychloroquine unproven against COVID-19	A tweet criticizing Dr. Fauci's stance on hydroxychloroquine.
+50	0.2228	0.2635	The Uvalde, Texas, school shooter was a “transsexual leftist illegal alien named Salvatore Ramos.”	Photo of Salvador Ramos, the 18-year-old Texas school shooter.
+54	0.2187	0.1218	Paul Pogba quit France’s national football team over president’s remarks on Islam	Photo of Paul Pogba in a French soccer jersey.
+55	0.2130	0.0685	Biden faked an interaction with reporters	A video of Biden's hand passing through a microphone, suggesting a green screen or editing error.
+57	0.2167	0.3125	Photo of a jaguar rescued from the 2019 Amazon fire	A burned animal in water, escaping the Amazon fire.
+59	0.2250	0.4495	Novel coronavirus exposure at a doctor’s office in this Australian town	A Facebook post about a potential coronavirus exposure at a doctor's office.
+61	0.2226	0.1550	Elderly Chinese couple hold hands in hospital after they were infected with coronavirus	An elderly couple says goodbye in an ICU due to coronavirus.
+63	0.2193	0.1261	This photo shows kangaroos rejoicing in the rain during the Australian bushfires	A video of rain in Australia with Australian flag emoji.
+65	0.2139	0.0500	Screenshot shows Trudeau was named in Maxwell trial	Photo of a news headline: "Epstein's Pilot Names High-Profile Passengers" with a list including Prince Andrew, Bill Clinton, and Donald Trump.
+66	0.2170	0.3125	Taliban leave Christians to die in bags	Christians tied in nylon bags, left to die for refusing to deny Jesus in Afghanistan.
+67	0.2104	0.0000	180 people so far charged with arson during Australian bushfires	A photo of a news headline or article about arsonists being caught.
+69	0.2110	0.2323	UN trucks stationed in front of a pharmaceutical company in Toronto	A screenshot of a conspiracy theory post about forced vaccination.
+70	0.2070	0.0698	Photo shows US basketball star LeBron James wearing a shirt that read: “WE DIE, y’all silent”	A black and white photo of a protest or memorial, with a crowd and signs.
+71	0.2012	0.0000	Unvaccinated children pose no threat to anyone	A person questioning vaccine efficacy with a bold, black-and-white text overlay.
+72	0.1990	0.1176	Images of children caged by human traffickers.	A disturbing post about child trafficking and abuse, with angry emojis.
+73	0.1973	0.1366	Indian and Pakistani soldiers dancing together to celebrate the arrival of Sikh religious pilgrims in Pakistan in October 2019	Pakistani and Indian armies celebrating together at Kartarpur corridor opening ceremony.
+75	0.1994	0.2778	Switzerland gives every citizen a gun	A photo of a Swiss citizen holding a gun, with a low-crime cityscape in the background.
+77	0.1996	0.2062	Photo shows child wounded in Russia invasion of Ukraine	A photo of a child affected by the Ukraine war, evoking sadness and prayer.
+79	0.1978	0.1271	NATO train ferrying armoured vehicles and military cargo to war in Ukraine	A convoy of NATO military vehicles with mysterious cabins.
+80	0.1941	0.0407	A rail freight tanker had “COVID-19” stamped on one side	A repetitive post about a deleted item being reposted, with no visual content.
+81	0.1926	0.1293	Photograph shows people in Ukraine praying amid increased tensions with Russia.	Ukrainian Christians praying outdoors in the snow.
+83	0.1946	0.2841	These are advices on coronavirus prevention	A screenshot of a Facebook post about coronavirus prevention and symptoms.
+84	0.1914	0.0500	Ivory tusks and horns are dyed pink to prevent poaching	A video of elephants being protected by pink dye.
+86	0.1898	0.1154	Illegally enter Australia and get a job, $70,000 and welfare	A satirical post comparing punishments for illegal border crossing in various countries to Australia's perceived generous treatment of illegal immigrants.
+92	0.1921	0.2972	An image shows the 2020 wildfires in Oregon	A photo of a wildfire in Southern Oregon, likely near Diamond Lake.
+94	0.1881	0.0000	About 100,000 votes cast in the US state of Nevada were fraudulent	A news headline claiming election fraud erased Biden's lead, with an investigation to aid Trump.
+96	0.1873	0.1493	Chinese man fights with Kenyan worker	African man with a serious expression, possibly with a fist raised.
+100	0.1913	0.3872	Muslims protesting against temple in Kolakata	A video shows Muslims protesting outside Kali Matha Mandir in Kolkata.
+101	0.1957	0.4189	A livestream of Donald Trump attending a parade in March 2021.	A photo of Donald Trump with a repeated caption "Perfect Welcome".
+102	0.1926	0.0321	Australians who avoid their local clinics during the novel coronavirus epidemic will receive free doctor visits	A screenshot of a repeated Australian emergency notice with contact numbers.
+103	0.1889	0.0000	UberBus coming to South Africa	A person expressing concern about Uber's actions, with a worried emoji.
+105	0.1854	0.0000	Foreign commanders spotted directing Hong Kong protests	A photo of Caucasians changing clothes near a CX7 car, with similar numbered cars nearby.
+109	0.1878	0.3125	“U.S. Census Bureau confirms huge conflict in total number of voters in 2020 election.”	A tweet claims the US Census Bureau found a 4 million vote discrepancy in the 2020 election.
+110	0.1876	0.1807	Image shows snake that swallowed a rifle	A person is angrily ranting about snakes eating anything, including an AK (likely an AK-47 rifle).
+113	0.1863	0.1128	Elderly Chinese couple hold hands in hospital after they were infected with coronavirus	A person in a mask, possibly in a hospital, with a somber expression.
+115	0.1853	0.1282	Yogi Adityanath provides for orphan child at Diwali celebrations in 2019	Yogi Ji comforts a crying child who lost parents, promising to care for food and education.
+117	0.1845	0.1351	Covid-19 vaccine recipients are spreading variants and "creating" mutations	A scientist claims vaccinated people spread mutant variants, not unvaccinated.
+118	0.1835	0.1250	New Australian law passed in Parliament which revokes licenses from drivers who touch their phone	No photo or video, just a text post about new Australian driving rules.
+119	0.1831	0.1596	Video shows Ukrainian refugee boy walking in Poland alone	A photo of a crying Ukrainian child walking alone, fleeing war.
+121	0.1816	0.0915	$100B contact tracing bill “is about controlling/tracking population, not about coronavirus.”	A proposed US House bill, H.R. 6666, aims to track citizens' movements for COVID-19 mitigation.
+122	0.1787	0.0000	Image shows New Zealand PM Jacinda Ardern hugging gang member	A photo of a gun store with empty shelves, with a caption criticizing gun control.
+126	0.1770	0.0694	Images show artwork created using fireflies	A photo of fireflies in trees, blurred with trails of light, taken with long exposure.
+128	0.1771	0.1803	US government to provide free crack pipes to drug users	A photo of a person holding a crack pipe with a shocked expression.
+130	0.1744	0.0000	Indian journalist Rana Ayyub arrested at protest	A girl speaking about Jinnah, with a video link.
+134	0.1781	0.4260	A photo shows Ukrainians praying in the snow 'in this phase of war danger'	Ukrainian Christians praying outdoors in the snow for their country amidst war danger.
+139	0.1768	0.0880	A Facebook post about an anti-COVID-19 restrictions protest in Berlin uses a photograph that is not from the protest but instead from a Swiss dance party held in 2019.	A protest in Berlin against COVID-19 lockdowns with 800,000 to 1.3 million attendees.
+142	0.1794	0.3549	Image shows a 'Spanish Dancer Jellyfish'	A photo of a vibrant Spanish Dancer Jellyfish.
+143	0.1774	0.0379	Salk Institute said vaccines cause illnesses; UBC said lockdowns have no benefit	A post listing COVID-19 updates from Canada, including false positives and vaccine injuries.
+144	0.1754	0.0352	America had the lowest unemployment rate in history a year ago in April 2020	A photo of a person holding a sign questioning a $4 trillion jobs plan.
+146	0.1774	0.3221	Road sign with anti-Muslim message at the India-Pakistan border	A photo of an Indian border sign with a message declaring a "Sharia-free zone".
+148	0.1771	0.1531	Trudeau is part of global 'Great Reset' conspiracy	Video of Canadian PM Justin Trudeau discussing the "Great Reset" led by the UN.
+149	0.1788	0.3079	Video shows Russian tank torched in Ukraine conflict	Ukrainian citizens throwing molotov cocktails at Russian tanks in Kiev.
+150	0.1806	0.3094	An image of construction workers protesting in Melbourne, Australia	Aerial view of protesters at Swanston and Bourke streets in Melbourne.
+151	0.1841	0.4470	Real photo of India’s Golden Temple at Amritsar with floating sky lanterns	A photo of the Golden Temple at night with lanterns reflected in the surrounding water.
+152	0.1829	0.0962	SADS is an adverse effect of the Covid-19 vaccine	Photo of a news article about Sudden Adult Death Syndrome (SADS) with a red "X" marked through it.
+154	0.1834	0.2174	Cap on when Nancy Pelosi got Covid-19 vaccine	A photo of a person, likely Nancy, receiving a vaccination with the cap still on the needle.
+155	0.1828	0.1351	COVID-19 guidelines from India’s top medical research body ICMR	A photo of a COVID-19 precaution list from ICMR New Delhi.
+156	0.1836	0.2447	Novel coronavirus exposure at a doctor’s office in this Australian town	A mother's post about potential COVID-19 exposure at Aberglasslyn Doctors.
+157	0.1872	0.4808	Image of gospel preacher executed in Syria	A man smiles as he's led to execution in Syria for preaching gospel.
+159	0.1885	0.2929	Infrastructure bill includes 61 percent tax on assets after a person dies	A video or photo of a person expressing outrage over a proposed 61% tax on inherited wealth.
+161	0.1896	0.2820	A photo shows a Time magazine cover comparing Vladimir Putin to Adolf Hitler	Time magazine cover with title "The Return of History" about Putin and Europe.
+165	0.1895	0.1807	Trump author of speech disparaging Africans and Arabs	A racist speech attributed to Donald Trump, insulting Africans.
+166	0.1880	0.0565	A picture of some protestors carrying some placards is doing the rounds on the internet. The text on one of the placards read, 'We are not Arabs, to kill us and keep silent'.	A photo of a protest sign against anti-Arab violence and silence.
+167	0.1879	0.1852	Trump reinstated to Facebook	A screenshot of a Twitter post announcing Donald Trump's Facebook and Instagram accounts have been restored.
+170	0.1858	0.0000	Video shows impressive Pakistani paratroopers	A photo of the Pakistan Army with patriotic text "Pak army zindabad" and a request to follow a page.
+173	0.1885	0.4260	A photo shows Ukrainians praying in the snow 'in this phase of war danger'	Ukrainian Christians praying outdoors in the snow for their country amidst war danger.
+174	0.1872	0.0725	List of Biden accomplishments is true	A Facebook post with false claims about Joe Biden's military and academic achievements.
+176	0.1857	0.0526	Simplot plans to close down Australian frozen vegetable manufacturing	No photo or video, just a text post about Australian food industry.
+179	0.1837	0.0000	Instagram page showing antifa symbol belongs to Illinois shooting suspect	Photo of a social media post about a shooter's political affiliation.
+180	0.1821	0.0424	Members of "World Doctors Alliance" make multiple claims about severity of Covid-19 pandemic, including that it's a "normal flu"	A photo of Cyril Ramaphosa with a lawsuit-related news headline.
+181	0.1852	0.4646	Enfamil and Similac will send parents free baby formula	A post about a formula shortage, with phone numbers for Enfamil and Similac.
+184	0.1852	0.1893	Photo of Philippine mayor Isko Moreno Domagoso taken after testing positive for Covid-19	Photos show Isko Moreno, COVID-positive, without a face shield, and hospital staff without PPEs.
+188	0.1889	0.5357	Face masks are dangerous for children	A mother warns about mask dangers for children, citing oxygen deprivation and psychological damage.
+189	0.1880	0.1000	Ballots received by error are proof of widespread voter fraud	A photo of unsecured, blank absentee ballot applications.
+190	0.1870	0.0893	JNU Student Union president Aishe Ghosh faked a hand injury	A photo of two hands, one with a wound on the left and another with the wound on the right.
+192	0.1869	0.1786	News Headlines on white supremacy links to GameStop stock rise	A screenshot of a CNN article about Gamestop stocks and a potential antisemitic motive.
+195	0.1886	0.3597	Genuine Time magazine cover featuring Russian President Putin with Hitler's moustache	Time Magazine cover with "The Return of History" and a story about Putin.
+196	0.1867	0.0000	Ukrainian soldiers saying goodbye to their partners before going to war	Anti-war message with Ukraine flag and sad emojis.
+197	0.1869	0.1998	rolonged use of face masks causes hypoxia -- a lack of oxygen in the body.	A person wearing a face mask with a red X marked through it.
+198	0.1868	0.1786	Biden says will raise taxes	A political ad warning about Biden's proposed tax increases.
+201	0.1873	0.2434	Israeli soldier arrests child during Gaza fighting in June 2021	A video shows an Israeli soldier sitting on a Palestinian child, suffocating him.
+203	0.1864	0.0917	EU warns Uganda’s Bobi Wine over swearing-in ceremony	A letter from the European Union to NUP's Kyagulanyi, warning against self-swearing as Uganda's president.
+205	0.1852	0.0625	Video of raunchy marriage custom in Namibia	A Namibian tribal test of fidelity, where sisters seduce a groom to check his arousal.
+206	0.1835	0.0000	Pakistan's advisor to PM on Finance dances after imposing new taxes	Photo of Hafeez Sheikh with a disappointed or unhappy expression.
+210	0.1824	0.0658	Australian TV network 7 News predicts COVID-19 case numbers for Victoria one day in advance	A screenshot of a news website with incorrect posting of Sunday's numbers on Saturday morning.
+212	0.1835	0.3046	a photo collage showing a young black man posing with guns depicts Jacob Blake	A photo of Jacob Blake with humorous, exaggerated expressions and text overlays.
+215	0.1836	0.1935	This is a genuine photo of a Philippine opposition senator sleeping during a congressional hearing	A video of a Senate inquiry on President Duterte's power naps with a comedic filter of Porky Pig.
+218	0.1825	0.0595	Pro-Pakistan slogans shouted outside an airport in India	Protesters from AIUDF chanting "Pakistan Zindabad" at Silchar Airport.
+219	0.1817	0.0917	Vaccines are not aimed at protecting the unvaccinated from Covid-19	A person is shown getting vaccinated, with a caption warning of vaccine effectiveness reliance on herd immunity.
+220	0.1818	0.1980	Video shows flooding at Hyderabad airport in India in 2020	Flooded Shamshabad airport runway in Hyderabad due to heavy rains.
+221	0.1820	0.2055	video of monkeys in an Indian hospital	Monkeys are in a Zimbabwe hospital, disturbing patients.
+224	0.1834	0.3382	Tanzanian president and co-wives at a family meeting with their husband	Photo of Tanzanian President with multiple wives in a meeting.
+226	0.1840	0.2495	Army takes over from police to end unrest in South Africa	No image or video is available, only a text post about a military takeover in South Africa.
+227	0.1836	0.1471	Images show scenes of recent unrest in Nigeria's southeast	Photo shows destroyed buildings and deserted streets in Orlu, Nigeria.
+228	0.1830	0.1124	“Myanmar used Dominion Voting Systems.”	A photo of a Myanmar pagoda or landscape with a caption about Myanmar's election controversy.
+229	0.1820	0.0633	Video shows deer on beach during COVID-19 lockdown	Empty Spanish beach with no humans.
+235	0.1805	0.0000	Capsule used in Karapitiya hospital cures Covid-19 in Sri Lanka	A photo of Dr. Udara Gunawardhana, a doctor with a team developing MeGha food supplement.
+238	0.1814	0.2874	Image shows the arrest of a TPLF leader	A photo or video of Jintu leaders arresting a hero, the red commando.
+239	0.1823	0.2885	Overseas airlines considering barring vaccinated travellers	A person is expressing frustration about COVID-19 vaccine travel restrictions.
+243	0.1812	0.0549	Ghana leads Africa in COVID-19 testing per million people	A video of President Akufo-Addo speaking about COVID-19 measures.
+244	0.1818	0.2568	Comedian Tim Allen wrote pro-Trump post	A photo of Tim Allen with a caption comparing costs of Trump's wall and the Obamacare website.
+245	0.1804	0.0000	Robredo wrongly computed the number of people allowed during her NGO launch	A photo or video criticizing Leni's math, with a calculation error.
+246	0.1789	0.0000	Street poster about coronavirus authorised by Extinction Rebellion	A photo of a graffiti with anti-human and pro-environmental messages.
+247	0.1817	0.5350	Jail inmate requests sentence extension due to Sydney's lockdown	A prisoner in Sydney's Long Bay correctional centre requests a sentence extension to avoid lockdowns.
+252	0.1808	0.0588	Biafran flag on Nigerian president’s vehicle	A Biafra flag is attached to a Land Cruiser in Imo State.
+253	0.1824	0.3875	Video shows Guinean President Alpha Conde attacking a minister	A video shows President Alfa Conde of Guinea physically beating his Chief of Staff.
+254	0.1813	0.0420	Image of a large crowd is of a Trump rally in Florida	No photo or video is provided, only repetitive text.
+255	0.1807	0.1053	Scenes before Modi started plogging at Mamallapuram beach.	A photo of a film crew on a beach, likely in Mahabalipuram.
+256	0.1804	0.1389	Face masks are aimed at protecting the wearer from COVID-19	A photo of a mask package with a warning label stating it offers no protection against COVID-19.
+262	0.1826	0.4642	Video shows flying trains in China	A train appears to be floating or flying above the tracks in China.
+264	0.1812	0.0000	Photo shows Covid-19 dead bodies in Indian river in May 2021	गंगा नदी में 500 शव तैरते हुए दिखाई दे रहे हैं।
+266	0.1808	0.1282	India issues emergency warning over novel coronavirus	A screenshot of a post warning about Coronavirus, with prevention methods and symptoms.
+267	0.1794	0.0000	Philippine health department issues 'Omicron Alert' graphic	A warning post about Omicron variant risks and precautions.
+270	0.1796	0.2041	Mugabe has computerised coffin	A photo of Robert Mugabe's high-tech, $17 billion casket.
+272	0.1816	0.4536	Video shows attempted robbery at clinic in Malaysia	A photo or video of a clinic in Puchong, Malaysia, showing a crime scene after a foiled armed robbery.
+273	0.1803	0.0000	Three carrots give you energy to walk three miles	A photo of healthy foods with text overlays sharing nutrition facts.
+275	0.1797	0.0917	Video shows graphene nanoparticles, which are found in Covid-19 vaccines	A video of graphene oxide moving or being manipulated.
+276	0.1787	0.0439	Photo shows empty shelves in Nova Scotia caused by railway blockades	A Facebook post with a red background and white text, protesting illegal blockades.
+277	0.1781	0.1000	USPS is not losing money and has no debt	A photo of a USPS truck or postal worker with text overlay opposing privatization and listing USPS facts.
+282	0.1769	0.0000	https://www.facebook.com/ken.larive/posts/10157559483628404	No photo or video is present, only a text post expressing outrage.
+283	0.1777	0.2952	Infrastructure bill includes 61 percent tax on assets after a person dies	A man is speaking about a proposed 61% tax on accumulated wealth and estates after death.
+286	0.1765	0.0000	Merriam-Webster changed its definition of anti-vaxxer amid Covid-19 pandemic	A person holds a "My Body My Choice" sign, protesting government overreach and vaccine mandates.
+287	0.1757	0.0602	Twitter, Google and YouTube block users from seeing video of an aerial flame-thrower starting wildland fires	A helicopter drops fire from a Heli-Torch to combat a brush fire.
+290	0.1754	0.1389	The Atlantic published an article about "heroism" of Joe Biden's bike fall	Photo of President Biden falling off a bike.
+291	0.1759	0.2381	An image of a woman with an extremely swollen belly shows a mother pregnant with quadruplets.	A pregnant woman with a visible baby bump, possibly holding an ultrasound image.
+293	0.1761	0.2066	A Canadian hospital has mannequins in its beds instead of Covid-19 patients	A photo or video of mannequins on ventilators in a hospital setting.
+294	0.1768	0.2871	Recent photos of armed robbery suspects under arrest	A photo of a robbery gang with seized money, guns, and a Nissan car.
+295	0.1762	0.0787	Aspirin, lemon juice and honey mixture as home remedy for COVID-19	No photo or video is described, only a lengthy text about the alleged root cause of COVID-19.
+296	0.1771	0.3233	New York Times published an article praising Indian prime minister Narendra Modi	Narendra Modi, India's Prime Minister.
+297	0.1780	0.3094	These photographs show the body of basketball star Kobe Bryant	A photo of Kobe Bryant's funeral or memorial with ashes.
+300	0.1775	0.1031	Photo shows Filipino celebrity John Lapus denouncing communist groups	A photo or video of Sir John and possibly Angel Locsin, with anti-CPP-NPA-NDF sentiments.
+301	0.1768	0.0680	Video shows Singapore’s ruling party placing election poster over opposition party's poster	A person is expressing anger and threatening retaliation in a video.
+302	0.1764	0.1075	CNN back-pedalled and said Trump will win US presidency	CNN news anchors discussing potential paths to a Trump election victory.
+303	0.1765	0.1953	An image of a wounded child is from the Russian invasion of Ukraine	A photo of a child affected by the Ukraine war.
+306	0.1773	0.3024	Henry Kissinger made these pro-Trump remarks	Photo of Henry Kissinger and Donald Trump.
+308	0.1768	0.0952	Image shows authentic media release announcing extension of Sydney lockdown	A news headline or announcement about Australia extending lockdown until December 30, 2021.
+311	0.1756	0.0000	Human-generated CO2 is an insignificant contributor to climate change	A pie chart comparing man-made greenhouse gases, with a second chart including water vapor.
+314	0.1767	0.3453	A 1922 report disproves human-caused global warming	A 1922 newspaper article about Arctic warming and ice melt.
+319	0.1767	0.1752	Flu shot is free and should be regarded as suspicious	A person receiving a flu shot at a pharmacy, possibly with a gift card incentive.
+320	0.1771	0.2475	Video shows Afghanistan woman stoned to death in November 2021	A video of the Taliban stoning a woman in Afghanistan.
+321	0.1767	0.1010	Girl pictured in Indian-administrated Kashmir after India revokes its autonomy	A woman holding the Indian flag in Kashmir.
+323	0.1771	0.2411	Israeli soldier arrests child during Gaza fighting in June 2021	A photo shows an Israeli soldier sitting on a crying Palestinian child, suffocating him.
+324	0.1774	0.2311	Video shows a truck driving into moving helicopter blades in Amritsar, in India's Punjab state	A truck and helicopter collide in Amritsar.
+327	0.1771	0.1240	Image shows Pakistani plane moments before crash in Karachi in May 2020	A plane, likely PK-320, is in the air before landing.
+329	0.1773	0.2151	Trump posted this tweet about H1N1 pandemic in 2009	A 2009 tweet from Donald Trump criticizing Obama's pandemic handling.
+331	0.1768	0.0980	Nasir el-Rufai says Buhari knows who is behind Zamfara killings	Photo of El-Rufai speaking, criticizing Buhari's inaction on attacks.
+334	0.1778	0.3358	This photo shows the Italian president crying over COVID-19	A photo of Italy's president crying, overwhelmed by COVID-19 deaths.
+336	0.1773	0.0943	Video shows Seoul rally against coronavirus restrictions in August 2020	A large crowd gathers in Gwanghwamun, Seoul, for Independence Day and anti-coronavirus protests.
+338	0.1774	0.2061	Russian, Spanish airlines are telling COVID-19 vaccinated people to not fly	Airlines in Spain and Russia warn vaccinated people of blood clot risks during air travel.
+339	0.1768	0.0735	List of Biden accomplishments is true	A satirical post falsely describing Joe Biden's achievements to test Facebook fact-checkers.
+346	0.1778	0.3431	Unsafe Covid-19 vaccines not sold in Western countries	Photo of Covid-19 vaccine packaging with "Not for distribution in US, EU, and Canada" labels.
+347	0.1781	0.2242	USA police arrest south Sudanese not knowing he is FBI agent	A cop stops an undercover black FBI agent, likely due to racial profiling.
+348	0.1770	0.0000	ICC sends cautionary letter to Kenyan politician	Photo of a press release from the International Criminal Court regarding alarming political statements in Kenya.
+350	0.1772	0.1995	Video shows flooding at Karachi airport in July 2022	Aerial view of Karachi airport, possibly from a plane or drone.
+351	0.1784	0.3979	Photo shows an actual fountain in Japan	A fountain in Japan shaped like a woman's head.
+354	0.1776	0.0379	Healthy people under 50 or recovered from Covid-19 do not need the vaccine	A doctor testifies before the Texas State Senate Committee on Health and Human Services.
+355	0.1779	0.2174	Photo shows aftermath of Beirut, Lebanon blast in August 2020	A massive explosion in Beirut, Lebanon, caused by 2,750 tons of ammonium nitrate.
+358	0.1783	0.2568	PEP Stores recruiting workers in South Africa	Job posting for Pep Stores Learnership Programme with stipend.
+359	0.1792	0.3413	Photo shows a 2015 visit by then-US president Barack Obama, infectious diseases expert Dr. Anthony Fauci and philanthropist Melinda Gates to a laboratory in China’s Wuhan	A photo allegedly shows Dr. Fauci, Melinda Gates, and Barack Obama at the Wuhan lab in 2015.
+361	0.1790	0.1500	South Africa’s President Ramaphosa dancing like he’s on drugs	A video of Cyril Ramaphosa dancing enthusiastically.
+363	0.1805	0.4505	Arizona canvassing results prove election irregularities in Maricopa County	Image of a post about the Arizona audit, showing 32.4% lost votes in Maricopa County.
+364	0.1812	0.3094	These photographs show the body of basketball star Kobe Bryant	A photo of Kobe Bryant with a caption mourning his death.
+366	0.1820	0.3288	Photo shows basketball legend Kobe Bryant’s body	A photo or video of Kobe Bryant's lifeless body after a helicopter crash.
+370	0.1837	0.4907	Video shows Indian soldiers crying after Galwan border clashes with China in June 2020	A video shows Indian soldiers crying after being beaten by Chinese forces in Ladakh.
+371	0.1845	0.3348	Adding a stamp will expedite US mail-in ballots with pre-paid postage	A ballot with a stamp to upgrade USPS handling to first class.
+372	0.1835	0.0000	These photos show the throats of COVID-19 patients	A person in a hospital bed, struggling to breathe, with oxygen tubes and a ventilator.
+373	0.1840	0.2817	Attempted child abduction at SA mall	A man attempting to grab a child from a father's arms at N1 city mall.
+375	0.1833	0.0526	Moving “corpses” expose deaths staged by Hamas	A video shows a supposedly dead Palestinian martyr moving, scratching their nose.
+378	0.1832	0.1648	This video shows Muslims were buried alive by workers of the Bharatiya Janata Party (BJP).	A disturbing post alleging Indian BJP and RSS members buried Muslims alive, with pleas to share the information.
+379	0.1829	0.1235	This video shows landslide in north-eastern India.	A landslide blocks the Guwahati to Shillong road.
+384	0.1823	0.0673	ND TV reveals that Ex PM gave money to "the Hindu" reporter to publish about possible LTTE attack to Sri Lanka	Photo of Mahinda Rajapaksa and a Hindu reporter with a caption about funding fake news.
+385	0.1817	0.0595	Alternative natural treatments to cure serious health conditions	Photo of coconut water with text overlay about its health benefits.
+386	0.1820	0.2451	This video has circulated in reports about a woman arrested for pouring soup on a stranger in Singapore	A person being arrested in Singapore for not wearing a mask.
+388	0.1823	0.2435	Photo shows Northern Lights captured by NASA	Astronauts view the Northern Lights from space, with a Louis Armstrong quote.
+389	0.1814	0.0000	Coronavirus gone in South Korea and under control in Japan, restrictions in Philippines are too relaxed	A frustrated Filipino citizen compares their country's handling of the pandemic to other nations.
+390	0.1811	0.1128	This photo shot from space by a NASA satellite shows the Australian bushfires	A photo of massive wildfires in Australia, with flames and smoke engulfing the landscape.
+391	0.1806	0.0909	White trails behind flying aircraft are chemtrails that spread Covid-19	A photo of a plane leaving behind contrails, with a cityscape below, possibly with COVID-19 statistics overlay.
+393	0.1810	0.2568	Brazilian politician furious over nonexistent COVID-19 patients	Empty hospital beds and staff, no COVID-19 patients.
+396	0.1801	0.0000	DC police escorted Antifa into capital	A video or photo showing a chaotic scene in Washington, D.C. with a simulated reality theme.
+397	0.1825	0.6593	Snowfall in holy Islamic city of Medina, Saudi Arabia	A photo or video of snowfall in Medina, Saudi Arabia.
+400	0.1823	0.1429	Video shows sinking ship in Singapore	A video of an oil tanker or ship incident at OPL Anchorage, facing Tuas.
+401	0.1826	0.2439	CNN reported US sending troops to Haiti	Photo of a news headline on CNN's website about Haiti's president assassination and US troops deployment.
+403	0.1831	0.2884	South Africa’s power utility Eskom loan with Exim Bank of China	A tweet from Exim Bank China clarifying loan terms for Eskom.
+404	0.1829	0.1436	the NIH researched chloroquine and concluded that it was effective at stopping the SARS coronavirus in its tracks	A blog post claims Dr. Fauci knew about HCQ's effectiveness against coronavirus in 2005.
+407	0.1830	0.2113	Photos show Rihanna holding her newborn baby	A photo of Rihanna's baby girl.
+409	0.1830	0.1761	Trump lost as many jobs as Biden gained during his first five months	A graph comparing job growth under Trump and Biden, showing 3 million jobs lost under Trump and 3 million jobs gained under Biden.
+410	0.1829	0.1553	People vaccinated against Covid-19 pose a health risk to others by “shedding” spike proteins	Image of a warning message from a nurse, advising to stay away from vaccinated people.
+412	0.1825	0.1000	Recent photo of two Ukrainian kids sending off soldiers	Two children hold hands, a girl with a stuffed animal and a boy saluting with a backpack.
+414	0.1830	0.2971	A photo from Ukraine shows several cars have been flipped over by the explosion of a Russian bomb, yet the building behind them looks completely undamaged, which is inconsistent with an explosion.	A photo of a house with intact windows and clean facade, surrounded by overturned cars, after a Russian bomb explosion.
+418	0.1834	0.2638	Ministers of Sri Lanka government discussing with IMF delegates!!(PHOTO)	A photo of Sri Lankan ministers at an IMF meeting without pens or paper.
+419	0.1826	0.0254	The WHO, CDC and New England Journal of Medicine warn against face masks over “severe health issues”	A protestor or activist is shown holding a sign criticizing the Victorian Government's COVID-19 response.
+420	0.1828	0.2083	Children face risks from wearing masks	A mother advocates against masking kids, citing health risks and zero COVID-19 death rate among children.
+422	0.1830	0.2255	Marine painted house in patriotic colors after neighbors said he could not fly American flag year round	A marine's house is painted with an American flag design.
+423	0.1837	0.3394	Kashmir separatist leader Yasin Malik dies in Indian jail	Yaseen Malik, a Pakistani militant, has died in jail.
+424	0.1841	0.2757	This is genuine COVID-19 prevention advice	No photo or video, just a text post about COVID-19 prevention measures.
+430	0.1838	0.1190	Video shows Indian police beating man to death for violating COVID-19 lockdown	A poor man is killed by a policeman for venturing out for food during India's lockdown.
+431	0.1847	0.3704	Anti-Sharia signboard put up by the Indian Army on the India-Pakistan border.	A sign at the India-Pakistan border reads "Sharia-Free Zone" and "Set your watches forward 1,400 years".
+433	0.1838	0.0000	Passengers protest as ruling PTI ministers cause flight delay in Pakistan	A video shows a confrontation at Skardu airport.
+434	0.1839	0.2020	Video shows blast at Aramco oil refinery in Saudi Arabia	A massive explosion at a Saudi Aramco refinery.
+436	0.1834	0.0625	Ukrainian troops on Snake Island killed by Russia	Ukrainian border guards defying a Russian warship.
+441	0.1832	0.1537	Genuine video of a plane narrowly avoiding an oil tanker upon landing	A plane nearly crashes, but the pilot's quick thinking saves it.
+444	0.1836	0.2641	Henry Kissinger made these pro-Trump remarks	No photo or video, just a text post about Henry Kissinger's views on Trump.
+445	0.1828	0.0000	USPS is not losing money and has no debt	Text listing positive facts about the US Postal Service.
+446	0.1827	0.1744	Magnet video proves COVID-19 vaccines contain microchips.	A magnet sticks to a person's arm after receiving a Covid vaccine.
+448	0.1822	0.0595	Photo shows bombing in Gaza in January 2022	A dark and devastated Gaza cityscape on New Year's Eve.
+450	0.1833	0.4310	People vaccinated against Covid-19 should avoid MRI scans	A doctor warns vaccinated individuals to avoid MRI scans due to potential severe reactions.
+451	0.1827	0.0526	Photo of BJP candidate dressed as Hanuman monkey god	A person, likely a politician, smiling and holding a BJP flag.
+453	0.1819	0.0000	Photo shows 2022 farmers' convoy in the Netherlands	A screenshot of a social media post about Canada and a call to action.
+456	0.1814	0.0649	Flu vaccine raises risk of coronavirus infection	A protest against New Jersey's Bill A4576 mandating flu shots for students.
+457	0.1811	0.1119	Photo shows Japanese officials paying respect to people working to contain the coronavirus pandemic	Government officials bowing to Japanese frontline workers.
+459	0.1803	0.0000	Eating infant flesh caused novel coronavirus outbreak	A disturbing photo of a restaurant menu in Wuhan, listing human fetus as a specialty dish.
+460	0.1813	0.4018	Video Show The Dawah Group Is littered With Dead Bodies Inside Their Own Apartments	Photo of dead bodies inside Dawah Group's apartments, victims of Covid-19.
+461	0.1811	0.1402	Video shows face masks from China inserted with RFID chips	A video likely shows a person talking about the environmental and health concerns of single-use masks.
+462	0.1808	0.1042	Canada ‘free’ of COVID-19 in August 2020	A screenshot of a social media post with repetitive text about Canada being Covid-free.
+463	0.1805	0.1031	Pakistani Muslims uproot saplings as planting trees is un-Islamic	Image: Uprooted trees with people in the background, possibly Imran Khan's followers.
+464	0.1809	0.2860	Magnets can stick to your arm after a Covid-19 jab because they contain a microchip or other metals.	A woman's arm with a magnet stuck to it after receiving a vaccine.
+465	0.1808	0.1639	PEP job ads on Facebook	Job posting for various positions at Pep, including cleaners, drivers, and cashiers.
+468	0.1827	0.6233	Videos show Putin sending warning to Nigeria	Video shows Putin warning African leaders, specifically Nigeria's president, to focus on their own problems.
+470	0.1830	0.2566	Report shows ICC practices selective justice in Philippine drug war probe	A person is shouting "Walang bayag" in front of a BBC news screen displaying ICC rejecting war crimes investigation in Afghanistan.
+473	0.1822	0.0000	Covid-19 vaccines kill more people then they save	A man speaks at an FDA panel, with a poster behind him showing "Excess deaths" and "526" COVID life numbers.
+475	0.1821	0.1613	Biden sworn in on upside down Bible in 2021	Photo of Biden swearing on a Bible with an upside-down cross.
+477	0.1820	0.1538	Philippines lifts coronavirus restrictions on basketball games in November 2020 for entire country	A sign or poster about COVID-19 protocols for basketball in the Philippines.
+484	0.1819	0.1418	Covid-19 and influenza statistics are being combined to make the numbers look worse.	A COVID-19 report announcing its final issue and future merge with flu surveillance reports.
+486	0.1811	0.0000	The tweet is made by Shatrughan Sinha	Protest against government policies, with demonstrators holding signs criticizing EVMs and demonetisation.
+488	0.1806	0.0478	Quotes Trump as saying "would you really want a president who was dumb enough to let himself get drafted?"	Donald Trump discusses his draft deferments during the Vietnam War.
+490	0.1800	0.0455	Delta variant of Covid 19 is connected to Delta Power Solutions	A person expressing concern about 5G and COVID vaccine safety.
+492	0.1802	0.2230	Article 42 of the Magna Carta 'enshrines' the right to free movement at home and across borders in peacetime.	Magna Carta illustration, King John granting rights to nobles.
+493	0.1800	0.1332	A Facebook post from January 9, 2020 claims former Greens leader Bob Brown “allowed Prime Minister Julia Gillard to form government”.	Photo of Julia Gillard and Greens signing Native Forest Protection Act.
+494	0.1795	0.0476	Claim that the AU for relocation out of Addis Ababa	African Union staff are evacuating the capital with valuables due to potential airspace closure.
+496	0.1791	0.0806	Safe abortion doesn't exist.	Anti-abortion advocacy post with a provocative statement.
+497	0.1789	0.1190	WHO Warns Against Consuming Cabbage To Prevent COVID-19	A misleading claim about cabbage and coronavirus, debunked by WHO.
+499	0.1790	0.2041	The Track and Trace app cost £37 billion.	A person is accusing a fact-checking platform of censorship and bias, funded by the government.
+500	0.1784	0.0485	CDC document confirms that SARS-CoV-2 has never been isolated.	A lab test setup with RNA-spiked human cells and viral transport medium.
+503	0.1782	0.1271	A Facebook post alleges President Trump made derogatory remarks regarding Africans.	Donald Trump criticizes African leaders, questioning their humanity.
+504	0.1778	0.0595	Ohio train derailment was a false flag operation	Photo of contaminated Ohio River with warning signs and chemical pollution.
+505	0.1774	0.0872	“the way iron cuts iron, in the same way, an alcoholic will end drugs.”: Raghav Chadhha said about choosing Bhagwant Mann as CM face of AAP	Photo: Raghav Chadha speaking at a press conference with a serious expression.
+507	0.1771	0.0898	A British navy captain tried to order an Irish lighthouse to move out of the way.	A lighthouse is shown, possibly with a phone or communication device nearby.
+510	0.1767	0.0638	The UP College of Engineering (UP CoE) is housing a branch of the Communist Party of the Philippines (CPP).	Photo of Chad Booc, a CPP-NPA operative, with a red "X" marked through it.
+511	0.1761	0.0340	27% of Conservative voters say they will ditch Boris Johnson over bike lanes.	A person is scrutinizing a poll questionnaire, evaluating its fairness.
+518	0.1765	0.2877	Sonia Gandhi is saying, “I am Indira Gandhi’s daughter-in-law, not afraid of anyone.”	A woman, likely Sonia Gandhi, smirks or shows confidence, referencing her relation to Indira Gandhi.
+521	0.1759	0.0000	Mustard oil prevents a person from getting infected with COVID-19	नाक में सरसों का तेल लगाने से कोरोनावायरस से बचाव हो सकता है।
+526	0.1755	0.0777	"(Ron) DeSantis' bill would remove: background checks, instruction, training and oversight."	Men in suits stand at podiums, speaking to reporters and cameras.
+527	0.1753	0.1361	The risk of a child dying of Covid-19 is around one in 3.5 million.	A person questioning the source of a statistic, seeking evidence.
+529	0.1753	0.1691	Elon Musk gonna buy Facebook and he will delete it same as what facebook did to friendster. OMG karma is real	A screenshot of a social media post about Elon Musk buying Facebook.
+531	0.1752	0.1515	Trupti Desai Converted To Christianity	A photo or video likely shows Tripti Desai, with a Christian cross or symbol, contrasting with Hindu attire.
+535	0.1753	0.1838	Ashok Gehlot: Generating electricity will remove energy from water	Image of Ashok Gehlot speaking, possibly with a confused expression.
+536	0.1750	0.0909	Ashok Gehlot: Generating electricity will remove energy from water	A misleading claim about water and electricity in dams, with a photo of a dam or a farmer.
+537	0.1752	0.2326	Karnataka Govt waived loans of only 800 farmers	A criticism of Karnataka's Congress-JDS government for not effectively waiving farm loans.
+538	0.1750	0.1250	Rice-for-oil agreement with Iran is a unique initiative by Modi Government	A photo of Narendra Modi and an Indian rupee symbol, with oil barrels and rice sacks in the background.
+540	0.1746	0.0847	Arnab Goswami calls Keralites shamless	A man, Arnab Cowswamy, is speaking negatively about Kerala flood victims.
+545	0.1744	0.1095	Donald Trump announced that Roche will launch a vaccine for coronavirus next Sunday.	False information about a COVID-19 vaccine cure within 3 hours.
+547	0.1742	0.1168	While coronavirus tests in other countries are conducted for free or at nominal charges, in India, it costs Rs 4,500
+	A comparison table of test fees in various countries, highlighting India's high fee.
+557	0.1743	0.1974	Pigeon visited lonely patient in hospital	A pigeon comforts an elderly man in a hospital, revealed to be the same bird he fed in a park.
+560	0.1748	0.3075	This is the video of ‘Made in India’ double-decker metro train coaches in Australia.	A photo of Indian-made metro trains in Sydney, Australia, with coaches from ICF Coach Factory in Chennai.
+564	0.1746	0.1250	Mumbai’s popular Wibs bread company has been sealed after its workers tested positive for coronavirus. People should not consume their bread.	A warning message about Wibs Company's bread due to a COVID-19 positive worker.
+576	0.1751	0.3255	Man went to police station with severed head of sister’s rapist in Chennai.	A man holds a severed head, walking towards a police station.
+577	0.1757	0.3411	WHO has advised people against social distancing and quarantine amid COVID-19 outbreak	False information, WHO still recommends isolation, quarantine, and social distancing for COVID-19 patients.
+579	0.1755	0.1124	Cheetahs cuddling with servant of Pipleshvar Mahadev Mandir	A cheetah and its family sleep with a priest at Pipaleshwar Temple, captured on CCTV.
+585	0.1752	0.0787	A COVID-19 and influenza dual-testing kit proves they are the same thing	A person expressing skepticism about media, politics, and pharmaceutical companies, claiming truth is being revealed.
+586	0.1750	0.1390	Claim: Wearing a mask will weaken your immune system, leading to the 'next wave' of coronavirus outbreaks once lockdowns lift.	A person warning about immune system weakness from prolonged mask-wearing.
+587	0.1744	0.0000	Will appeal in Supreme Court if Tamil Nadu brings ordinance on NEET – Nalini Chidambaram	A photo of Mamta Banerjee and Kejriwal together.
+588	0.1740	0.0559	Airline passengers from Queensland have to put on their face masks once they cross into NSW airspace.	A photo or video of a meal from Club Grubbery, posted by Hoody and Johnny.
+590	0.1735	0.0298	No, Mark Zuckerberg did not endorse Donald Trump, as Elizabeth Warren said in stunt ad	A test of Facebook's ad policy allowing false political ads is being conducted.
+592	0.1731	0.0758	Video showing China’s launch of the artificial sun into the sky	A photo of a Chinese rocket or spacecraft, likely launching or in orbit.
+599	0.1729	0.1081	“Ted Cruz erupts as FBI director tries to defend Biden over Mar-a-Lago raid” in video.	A person criticizes the FBI raid on Donald Trump, calling it corrupt and an abuse of power by the Biden administration.
+601	0.1726	0.0820	EU regulation means kipper sellers must package their kippers in ice.	A man, likely Boris Johnson, is speaking in a formal setting.
+603	0.1727	0.2112	The beautiful night view picture of the Agra-Lucknow Expressway in Uttar Pradesh	A photo of the Lucknow-Agra Expressway, a project by Samajwadi Party.
+605	0.1726	0.1299	The claim: Langlade, Maricopa counties and Texas unanimously rejected results of 2020 election	A video of balls dropping, possibly a reference to a news story about Langlade County, Wisconsin.
+606	0.1721	0.0345	Facebook third-party fact-checkers took down the Facebook page "Hands Off Our Children."	A person criticizing others for selective outrage and hypocrisy.
+608	0.1718	0.0913	In this match between the women’s basketball teams of Russia and  France, the referee’s wrong penalty angered the high center forward of the Russian women team. In a fit of anger, she lifted the referee to let him sit in the basket, pointed at the referee sitting in the basket and said, I let you sit in the basket and brag!  This is one of the few wonderful shots on the basketball court 😆👆👆#sports #referee	A female Russian basketball player lifts a referee and puts him in the basketball hoop.
+609	0.1714	0.0500	“Aretha Franklin’s 1968 song ‘A Natural Woman’ deemed ‘offensive’ by trans community.”	A person is expressing frustration and questioning others' sanity.
+610	0.1715	0.1854	Claim: Wearing a mask will weaken your immune system, leading to the 'next wave' of coronavirus outbreaks once lockdowns lift.	A person warning about the effects of prolonged mask-wearing on the immune system.
+611	0.1714	0.1515	RSS Seva Barathi has reached the kid from a viral video and provided food and essentials.	People watching TV and a video of RSS march being shown.
+615	0.1711	0.0806	Aluminum “is in the vaccine” and will hurt the brain.	Anti-vaccine misinformation with a brain illustration.
+616	0.1710	0.1361	The UK was able to approve the Pfizer/BioNTech vaccine more quickly because of Brexit.	UK regulation allows temporary distribution of unlicensed Covid-19 vaccines or treatments.
+617	0.1706	0.0577	The spike proteins generated by the body in response to the Covid-19 vaccines make people a ticking time bomb for cancer, blood clots and other ailments.	A person expressing skepticism about vaccine effectiveness.
+618	0.1704	0.1030	RSS chief, Mohan Bhagwat, says, “Rahul Gandhi is the leader of the future. It will cost you heavily to take him as a joke. His family’s history tells us, it will not be right to take Rahul ji, lightly”
+
+Abhi toh ‘yatra’ shuru hi hui hai, and…First, BJP spokespersons are made to+	Image of RSS chief Mohan Bhagwat and Rahul Gandhi.
+624	0.1703	0.1493	Birmingham temple burnt by muslim during Navratri. Hindus beaten up. England police ineffective in Saving Hindus 😢😳!!	A burnt Hindu temple in Birmingham with possible victims of violence.
+628	0.1700	0.0775	The Control of Diseases Act in the UK changed on 27 April.	A person is reading updates on government legislation from a website.
+631	0.1699	0.1324	The cost of 20 years in Afghanistan was only 59% of the cost of NHS Test and Trace.	A graph or chart showing UK military expenditure in Afghanistan from 2001-2002.
+632	0.1695	0.0455	A Pfizer executive has admitted the company did not test whether its Covid-19 vaccine stopped transmission of the virus before its launch.	A person is expressing uncertainty about an issue that requires further examination.
+633	0.1698	0.2665	The government advice is not to challenge someone who is not wearing a face covering.	A warning sign about face covering rules and potential fines under the Equality Act 2010.
+634	0.1694	0.0676	A report has "proven" that the Pfizer COVID-19 vaccine contains graphene oxide.	A shocking or surprising video or revelation is about to be revealed.
+636	0.1695	0.1842	A new Pfizer document shows the company admitting its Covid-19 vaccine is not safe for use in pregnancy or breastfeeding.	A mother breastfeeding her baby, with a COVID-19 vaccine vial nearby.
+637	0.1691	0.0357	Says House Speaker Nancy Pelosi and Rep. Adam Schiff should be impeached.	A photo of Mitt Romney with a red "X" marked through it, or a crowd protesting with anti-Romney signs.
+639	0.1687	0.0639	A social media post claims that Apple AirPods are dangerous because they emit radiation which is harmful to the human body. We fact-checked and found the claim to be Mostly False.	A photo of AirPods with a warning symbol or a brain scan showing radiation absorption.
+640	0.1685	0.1035	The Mental Health Act will be used to section people who refuse to have the Covid-19 vaccine so they can be forced to have it.	A screenshot of a UK parliamentary committee document on compulsory COVID-19 vaccination.
+641	0.1685	0.1724	A viral image shows a mountain shaped like a turtle's head in Cambodia.	A photo of a rock resembling a snapping turtle.
+642	0.1681	0.0476	There are 16,481 fewer beds in hospitals since 2010.	A protest sign or banner criticizing Tory rule and its impact on the NHS.
+644	0.1680	0.1326	Said New York Gov. Andrew Cuomo said that “with all the technology we have, we don't need actual classrooms.”	A photo or video of New York Governor Cuomo discussing NYS education.
+645	0.1678	0.1039	Nine of the ten most deprived council areas in this country have seen cuts that are almost three times the average of any other council.	A graph likely shows declining spending power of metropolitan district councils.
+648	0.1675	0.0727	Blocking the implementation of the national identification system is in the agenda of the National Democratic Front of the Philippines (NDFP) under the proposed Comprehensive Agreement on Social and Economic Reforms (CASER).	A person criticizes the opposition for blocking the ID system.
+649	0.1674	0.1402	A scam is asking people to input the personal details, including bank details, to receive “Covid-19 Relieve.”	A scam message with a fake UK GOV site is trying to harvest personal data.
+651	0.1675	0.1847	 Congress Spokesperson Randeep Singh Surjewala tweeted that BJP MP Kalraj Mishra in a rally in Faridabad on Sunday threatened to shoot those who protested against Faridabad MP. On closely monitoring the original video, we found that Surjewala’s claims are false.	A video of Kalraj Mishra threatening to shoot protesters.
+652	0.1672	0.0704	Saudi Arabia is the only country not having a permanent river flowing within it	A promotional post for the @facts_ly._ account, sharing fun facts and requesting followers.
+654	0.1668	0.0385	The claim: Photos prove sea level hasn't risen in Sydney Harbor	A person is joking about drowning, referencing flat earth conspiracy theories.
+657	0.1666	0.1099	Picture of Supriya Sule sitting in Maharashtra SM chair	A person is sitting on another person's chair.
+658	0.1664	0.1007	The Washington Times ran a photo of "President Gore" after Election Day 2000	A graph or chart showing the results of a South Carolina Republican poll.
+659	0.1660	0.0431	The Taliban survived the last 18 months with no vaccines, social distancing, PCR testing, masks or business closures to then recapture an entire country with no mass deaths amongst their population during the pandemic.	Taliban members receiving Covid-19 vaccinations.
+660	0.1657	0.0800	Did Buhari violate the law by appointing Usman Baba as IG?	Photo: President Buhari with Nigeria Police Trust Fund officials, possibly during the renewal announcement.
+661	0.1654	0.0682	A £22 billion Test and Trace contract was given to a company which has been prosecuted twice by the Serious Fraud Office.	Serco pays £19.2m penalty and £3.7m costs, adding to £12.8m compensation.
+662	0.1651	0.0663	A lot of people believe that Bhut Jolokia (Ghost Pepper), a chilli that grows in North East India, is the hottest and spiciest chilli in the world. We fact-checked and found that Bhut Jolokia was the hottest chilli at one point of now, but no more. We rate this claim as Mostly False.	A Dunkin' Spicy Ghost Pepper Donut with a ghost pepper.
+663	0.1654	0.2565	“Illegal immigrants” are kept in hotels and are fed and clothed as well as receiving benefits.	A person questioning the treatment and benefits given to illegal immigrants in a hotel setting.
+664	0.1657	0.2719	A Facebook post claims New Zealand’s national debt has risen to more than $NZ120 billion.	A screenshot of New Zealand's debt clock, showing a high and increasing national debt.
+666	0.1652	0.0000	Bhut Jolokia is the hottest chilli in the world	A photo of a Dunkin Spicy Ghost Pepper Donut.
+667	0.1647	0.0000	Comparing daily temperatures to 1979-2000 baseline disproves global warming	A person criticizing a situation, likely a financial or economic issue, as exploitative.
+669	0.1646	0.1333	The IMF has just created Unicoin, which is a Central Banking Digital Currency.	Image of IMF logo with a graph of rising global economy in the background.
+671	0.1643	0.0559	For every three victims of domestic abuse, two will be female, one will be male.	Graph showing partner abuse rates decreasing from 5.2% to 4.5% between 2012 and 2018.
+673	0.1639	0.0397	HAARP is responsible for recent disasters in Turkey, Haiti and New Zealand	A video likely showing alleged HAARP destruction footage.
+674	0.1638	0.1353	Average energy costs in the UK are €2,960, €650 in France and Belgium, €620 in Spain, €558 in Germany and Denmark, €546 in Holland, €545 in Austria and €543 in Norway, €476 in Finland and €174 in Poland.	A graph comparing European countries' average energy prices, with the UK's being significantly higher.
+676	0.1637	0.1243	Leni Robredo said she will bring back the Aquino government and that whatever PNoy did from 2010-2016 for the Philippines, she will also do from 2022-2028	VP Leni Robredo vows to revive Aquino's government policies.
+679	0.1634	0.0637	Mother of blind devotees, after a lot of hard work got this pick!!	Smriti Irani wearing a belly dance costume, posing for a photo.
+680	0.1639	0.3158	Video of a little girl firing a gun is with the National Resistance Front of Afghanistan to fight against the Taliban	A young girl holds a rifle, fighting against the Taliban.
+681	0.1635	0.0485	A video circulating on social media claims that a homemade CBD gummies recipe can reverse Type 1 and Type 2 diabetes. We fact checked and found the claim to be False.	A photo of a continuous glucose monitor (CGM) device.
+683	0.1632	0.0546	Claim: Biden attacked over age, policies on pot and prisons and charges of being 'creepy'	A poster with text urging to vote for Joe Biden, despite his flaws, to prevent another Trump term.
+686	0.1630	0.0847	The claim: Moon visible in the daytime proves Earth is flat	A flat Earth conspiracy post with hashtags and emojis.
+689	0.1630	0.1720	Sunidhi chauhan sang an obscene song in front of Rahul Gandhi	Rahul Gandhi and Ashok Gehlot walking together at night.
+691	0.1639	0.4566	A Facebook user shared a video alleging that Buhari was arrested by ICC.	A video allegedly showing Nigerian President Buhari being arrested by the ICC.
+692	0.1640	0.2273	Nancy Pelosi is gearresteerd.	A person is arrested, likely Nancy, with a rolling ball emoji indicating a start to a larger event.
+693	0.1642	0.2201	In Chembur, Maharashtra, 5 people fell into a drain after a concrete slab broke.	A photo or video of a scenic view or event near Amar Mahal in Chembur.
+696	0.1642	0.1485	Honey and Cinnamon can be combined to cure a long list of diseases such as Cancer, Arthritis, etc.	A photo of boiled cinnamon and honey in a bowl or cup.
+698	0.1644	0.2482	Video of the huge crowd that gathered for the Pathaan movie screening in UAE	Fans gather outside a cinema hall in the UAE to watch the movie Pathaan.
+700	0.1641	0.0658	“At the same moment that Biden is accusing Republicans of fascism, his DHS has published a cartoon on Facebook urging children to report their parents to federal authorities if their parents post something called covid disinformation."	A photo of a concerned parent or a child with a red "X" over a government logo.
+701	0.1651	0.5089	Argentine boy who died at age 4 was part of a COVID-19 vaccination campaign	A 4-year-old Argentine boy who promoted COVID-19 vaccinations died of pneumonia.
+702	0.1648	0.0568	"Many of the people in DACA, no longer very young, are far from ‘angels.’ Some are very tough, hardened criminals."   	A photo or video of President Trump likely criticizing DACA recipients.
+704	0.1645	0.0667	monkeypox is specific to a gender	Photo of a book cover: "2060: A Love Story in a Utopian Future" by Janette Rainwater.
+706	0.1643	0.0909	The NHS internal market, created in the 1990s, costs around £10 billion a year.	A warning label or disclaimer in a financial or scientific report.
+707	0.1643	0.1522	Photos showing a polluted Pasig River, Manila Bay and Boracay were taken during "disente time" or the Aquino administration.	Two people, Bastos and Desenti, are shown in a split-screen comparison, likely competing in a timed challenge or race.
+709	0.1639	0.0382	Former ABS-CBN president and CEO Charo Santos-Concio apologized for the network's mistake	A woman, likely a celebrity, is being praised for her humility.
+710	0.1645	0.3658	A Facebook user is looking for their son, Tyler, who went missing after going to school.	A missing person poster with a photo of a boy, Tyler White, on his first day of school.
+711	0.1643	0.0958	A video allegedly showing PM Narendra Modi calling himself the son of a Pathan has gone viral on social media. We found that the video is being shared with misleading claims.	A child, likely from the Pathan ethnic group, mocks Hindu supporters of Modi.
+712	0.1640	0.0588	Respectable aristocratic hero. A warrior who accomplished his responsibility with bullets. A person who symbolises Indian bravery and sacrifice. Let’s pay homage to Nathuram Vinayak Godse on Father of Nation, Gandhi’s birthday with pride! – Senthamizhan Seeman	A person is holding a newspaper with a false headline.
+714	0.1638	0.0802	A 24-second video clip of a IPL match played between Kings XI Punjab and Rajasthan Royals at Sawai Mansingh Stadium in Jaipur has gone viral on social media with claims that people raised slogans of “Chowkidaar Chor Hai (Watchman is a thief)” during the match.  The slogans of “Chowkidaar Chow Hai” were raised in response to the slogans of “Modi Modi”. It would be wrong to say that only the slogans of “Chowkidaar Chor Hai” were raised in the stadium.	A cricket stadium with a large screen displaying "Chowkidar chor hai" slogan during an IPL match.
+715	0.1637	0.1482	482 Covid-19 deaths were recorded in the UK on 19 April, 508 on 20 April and 646 on 21 April.	A person expressing concern about Covid-19 deaths despite a perceived end to the pandemic.
+716	0.1635	0.0806	Islamic State has hacked a major computer network used by universities.	A cyber-crime attack is suspected to be the work of IS, a terrorist organization.
+720	0.1631	0.0382	Various posts in local community Facebook groups are genuine appeals for help.	A person hit a dog with their truck and is seeking its owner.
+721	0.1627	0.0000	Former MLA supporters in Shaheen Bagh raised slogans of 'Pakistan Zindabad'	A policeman is shown committing a crime or violating laws.
+722	0.1623	0.0340	Spain’s Health Ministry said that the SARS-CoV-2 virus has never been isolated.	A protest or press conference with people holding signs and microphones.
+723	0.1622	0.1087	Five million patients in England were denied a GP appointment when they tried to make one in October.	Patients unable to book ahead or find available appointments at desired times.
+724	0.1618	0.0231	This is what is called progress! Direct charter flight ride by auto rickshaw! Only Kejriwal uncle can do this miracle!	Image of Arvind Kejriwal on a private plane.
+725	0.1620	0.2556	The claim: Antibiotics ‘cancel out’ birth control 	A warning message about antibiotics interfering with birth control.
+726	0.1620	0.1301	i feel amazing. didn’t have to take a single pain pill for my wisdom tooth extraction! just drank pineapple juice and vibed. highly recommend.	A person smiling, holding a glass of pineapple juice, with a thumbs up.
+727	0.1618	0.1047	An Instagram post claims Victorian Premier Daniel Andrews said “insisting on human rights” under COVID-19 restrictions was not only selfish but also stupid.	Protest sign against Melbourne lockdown, prioritizing human rights.
+728	0.1614	0.0000	Viruses like influenza don’t have seasons	A doctor in San Diego warns about sugar and carbs being toxic.
+729	0.1617	0.2703	Bananas are radioactive	A banana tree with a caption about being radioactive.
+730	0.1614	0.0532	Picture shows a participant of Aurat March 2022 carrying a placard with text that reads, “God please give me a penis I want to rape men.”	A protest sign critiques societal double standards on rape and gender.
+731	0.1612	0.0877	Spending on social care is down 8% since 2010.	A protest sign or poster criticizing Tory rule and its impact on the NHS.
+735	0.1609	0.0667	A video claims to show people partying in public in Sydney's Bondi while the city was subject to strict COVID-19 lockdown rules.	Classism definition in a dictionary or encyclopedia entry.
+736	0.1605	0.0258	Rape has been legalised in the UK as offenders can now escape punishment if they apologise to their victims.	A photo of a judge or courtroom with a caption about alternative justice.
+739	0.1602	0.0507	Congress President Rahul Gandhi has claimed that Masood Azhar, a convict of the Pulwama attack, was released from India by the BJP in 1999. He said that India’s National Security Advisor Ajit Doval went to Kandahar to hand over Azhar. We found that Rahul Gandhi's claim that “Ajit Doval had gone to Kandahar from Delhi in the aircraft with Masood Azhar” is not correct. Mr Doval was already in Kandahar and was involved in conversations regarding the safe release of the passengers in the hijacked plane. 
+	A criticism of India's BJP party, accusing them of links to terrorism.
+740	0.1602	0.1389	Japan has dropped Covid-19 vaccine mandates.	Photo of vaccine labels with warning sections highlighted.
+743	0.1599	0.0329	I have attached a copy of the amendment made in 2016 that those who do not know Tamil can join the government services in Tamil Nadu. Page 44 says so. But one ‘fact-checking’ website says there is no evidence regarding this. Which is right?	Tamil language government notification document.
+746	0.1597	0.1034	If you have a runny nose and sputum, you have a common cold.	A post shares unverified coronavirus information and prevention tips.
+747	0.1594	0.0581	Is the video released by India as an attack on Pakistan was an old video of Syria?	A person is sharing false information on social media.
+748	0.1592	0.0630	Anti nazi?? Soros? Better check your facts! That’s an SS uniform and he was a Nazi! Hmmm	A Twitter post criticizing a meme that combines anti-Nazi, anti-Soros, anti-communist, anti-vaccine, and climate change denial views.
+749	0.1590	0.1042	almonds can prevent Cancer	A photo of almonds with a caption about their health benefits.
+750	0.1588	0.0767	Nadine Dorries said people should stop moaning about the demand for food banks, and  families would need to “live within their means” because “food doesn’t grow on trees”.	Nadine Dorries speaking or standing at a podium.
+751	0.1585	0.0382	Kabataan Party-list Rep. Sarah Elago told parents, "Your children are not yours. They came through you but they do not belong to you."	A concerned parent is likely shown in the photo.
+753	0.1584	0.1220	The Gates Foundation "has the patent for this coronavirus."	Photo of Bill Gates with a patent troll in a meeting or courtroom setting.
+756	0.1580	0.0000	there were no cases of Flu in the year 2021	A skeptical comment questioning a coincidence, reposted from Katie Hopkins.
+757	0.1576	0.0000	The average global temperature has increased 0.134 degrees since 1978	A conservative supporter promotes their social media accounts and expresses pro-Trump views.
+758	0.1577	0.1989	A document released by the FDA confirms the presence of graphene oxide in the Pfizer vaccine against Covid-19.	Electron microscopy sample preparation of TwinStrep-tagged P2 protein on a gold grid with graphene oxide.
+761	0.1580	0.2859	Photo shows Joe Biden “doesn’t wear a mask on a plane.”
+	A person wearing a mask with a patriotic background or flag.
+762	0.1576	0.0000	Recent pictures of damaged Indian army vehicles after being hit by a massive landslide in Ladakh	भारतीय सेना के कॉन्वॉय पर लद्दाख में भूस्खलन, 6 जवान शहीद।
+763	0.1573	0.0379	"Many of the people in DACA, no longer very young, are far from ‘angels.’ Some are very tough, hardened criminals."	A tweet criticizing DACA recipients and President Obama's executive order.
+764	0.1573	0.1667	There is a live criminal investigation into the Covid-19 vaccine programme.	A serious investigation is unfolding, expected to reveal shocking truths.
+765	0.1578	0.3431	A tweet claims to be from Essex Police describing its recruitment strategy.	A Twitter post from Essex Police UK about a job application process.
+767	0.1578	0.1571	The newly appointed TTD Chairman YV Reddy is a converted Christian and his full name is Yehova Vincent Subba Reddy	YV Subbareddy, the new chairman, is a Christian.
+768	0.1581	0.2601	As the COVID-19 global death toll continues to rise, a social media post claims former Fijian prime minister Laisenia Qarase died from the coronavirus.	Former PM Laisenia Qarase died from Covid-19 in Suva.
+769	0.1580	0.1214	Mask mandates preventing access to food, healthcare or education are a war crime, according to the Nuremberg Code.	A historic document or code is shown with no mention of masks or public health measures.
+771	0.1581	0.1974	Omega-3 Fatty Acids can repair nerve damage	A video discussing omega-3 benefits for nerve repair and nervous system protection.
+772	0.1579	0.0995	People are reserving tickets to Trump’s Tulsa rally to leave empty seats. It probably won’t work	A photo of a Trump rally in Tulsa with COVID-19 precautions.
+773	0.1580	0.1791	Irish dancers performed to Queen’s “Another One Bites The Dust” outside Buckingham Palace, shortly after the Queen’s death.	A photo or video of Irish people partying or celebrating the Queen's death.
+774	0.1577	0.0702	A photo of Cambodian prime minister, Hun Sen, being arrested by police. This photo is also attached with the caption in Khmer which means in English as “As I said, ICC”.	A person is holding an ICC (International Cricket Council) cricket trophy.
+775	0.1575	0.0557	“[Steve] Bullock’s health care plan will force rural hospitals to close. Medicare as we know it will change, replaced by a government-run program with fewer doctors and longer wait times.”	Ad criticizing Steve Bullock's healthcare plan.
+777	0.1573	0.0886	Years ago I wrote an article headlined ‘How green is my Bengal?’ which fetched the usual cacophony of #LeftLiberal protest and snark.
+
+Sadly Bengali ‘intellectuals’ are collaborators in this hate project. Useful Idiots don’t realise the mob will devour them first.	A Twitter post criticizing Bengali intellectuals for collaborating with a hate project.
+779	0.1572	0.1212	Fibres from face masks and test swabs are evidence that nanoparticles are being inserted into us.	Image shows black, worm-like structures on COVID-19 swabs and masks.
+782	0.1569	0.0333	There are 1.9 million more children studying in good or outstanding schools since 2010.	A graph showing a skewed national grade profile due to academies' selective participation.
+783	0.1572	0.2616	Massive 7.8 magnitude #earthquake strikes #Turkey
+Turkey💔 #Turkey #amed #earthquake #Earthquake	A massive earthquake hits Turkey with a 7.8 magnitude.
+784	0.1569	0.0289	Video shows movers carrying boxes out of the White House as President Trump discusses 2020 election results.	A humorous hip-hop related post with laughing and crying emojis.
+785	0.1569	0.1699	Says the Biden administration is choosing to send baby formula to the border as one of its “out-of-touch priorities.”	Photo of stocked shelves at a US border center and an empty shelf at home, contrasting baby formula availability.
+787	0.1565	0.0174	"On election night, 11:15 at night, the algorithms of these (voting) machines broke … Donald Trump got so many more millions of votes that they didn’t expect, that they’re going to have to go recalibrate, right? So that’s why all these states shut down. All of a sudden they all shut down. And we’re all going, ‘What? That’s weird, this has never happened in any other election.’"	A photo of a TV screen showing OAN with a disclaimer about Mike Lindell's claims.
+788	0.1562	0.0000	People of Bihar chasing BJP supporters	Protesters blocking a tractor rally led by Indian politicians in Naraingarh.
+789	0.1559	0.0505	Covid-19’s infection fatality rate is 0.1%	Graph showing a 95% confidence interval of 0.37-1.15% with a best estimate of 0.76%.
+792	0.1557	0.0820	“Sunlight actually can kill the (novel coronavirus.)”	A person is sharing a Coronavirus update to dispel myths and share facts.
+794	0.1556	0.0952	Viral video of people electrocuted during Ganesh festival is recent	A photo of a 23ft Ganesh idol with a tragic accident scene in front.
+798	0.1554	0.0941	A social media user claim that if you have nasal congestion, you can clear it by either eating it raw or inhaling vapors of garlic in water. We fact-checked and found the claim to be Mostly False. 	A person inhaling steam from a pot of boiling garlic water.
+800	0.1553	0.1216	In Qatar fans who are not allowed to enter the stadium with beer at the World Cup are being caught trying to enter the stadium with Pepsi stickers in this form.  It should be noted that Qatar prohibits any alcoholic beverages.
+
+Brazilians have find a way to enter the stadium of Qatar with beer.
+
+#FIFAWorldCup  #Argentina	Fans in Qatar attempt to sneak beer into stadiums by disguising it with Pepsi stickers.
+801	0.1551	0.0490	COVID Vaccine make you a ‘ticking time bomb’	Anti-vaccine misinformation photo or video warning of alleged vaccine side effects.
+802	0.1550	0.1293	Canadian sniper 'Wali' was killed by Russian forces in Ukraine	Photo of Canadian Sniper Wali, a man in military uniform, with a sniper rifle.
+804	0.1548	0.0840	Says “Dr. Fauci lied about masks in March.”	A Bible verse from Colossians 3:12-13 about compassion and forgiveness.
+805	0.1548	0.1210	Photo shows U.S. Rep. Lauren Boebert with two scantily dressed men.	A photo of a church and a drag bar with a caption promoting traditional values.
+806	0.1547	0.1127	Congress party shared a picture of a truck on World Sleep Day, which read: "Don't blow horns, Modi government is sleeping" but the picture was photo shopped and not real.	A person awake at night, possibly on their phone, with a humorous comment about the Indian Prime Minister Modi.
+810	0.1547	0.1905	Post implies Gates wanted to control population through vaccine deaths	A person criticizing Bill Gates' 2010 TED talk about population control and vaccines.
+811	0.1545	0.0680	Says 12 restaurants and food companies are "supporting Trump’s re-election."
+	A photo of unhealthy fast food with negative effects on health.
+813	0.1545	0.1381	Some of the foreign aid budget went on China’s film and museum industry last year.	A photo of a Chinese film set or cinema, with a caption about the £14 billion investment.
+814	0.1546	0.2067	Nicola Sturgeon has banned the Union Jack from British government buildings and replaced it with the EU flag.	European flag flying from Scottish Government buildings daily.
+815	0.1543	0.0347	Passports aren’t required to enter the United States from Mexico and Canada.	A person is frustrated about US-Mexico border policies.
+817	0.1542	0.1079	A boy with autism named Brayden and his dog are missing in Derbyshire.	A warning about potential scams in online posts about reuniting vulnerable people.
+818	0.1547	0.3571	Tennessee ban Plan B and made its ordering criminally punishable	Protest against US states' ban on Plan B and potential nationwide abortion ban.
+820	0.1549	0.2549	Jim Jordan said, “It’s finally happening! Adam Schiff will be impeached.”	Photo of Jim Jordan and Adam Schiff in a heated congressional exchange.
+822	0.1547	0.0661	The UK has recorded five times more deaths “due to” the Covid-19 vaccines than all other vaccines over the past five years	Graph showing reporting rates of new medicines decreasing over time.
+823	0.1548	0.1786	Boy infected with HIV from tainted pineapple	A boy eats pineapple, falls sick, and is diagnosed with AIDS, but the story is likely misinformation.
+824	0.1545	0.0500	“Harvard is sitting on top of a $54 billion hedge fund they call an ‘endowment’ that they pay zero taxes on. Yale has $31 Billion. Stanford $29 Billion. Princeton $26 Billion.”	A photo of Ivy League university endowments and student loan forgiveness protests.
+827	0.1547	0.2277	Big breaking. Bill passed in US which recognized Hindu New Year. Sanatan's danka is ringing all over the world. Jai Shri Ram	A photo of a US document or certificate recognizing Hindu New Year.
+829	0.1546	0.1049	Shahrukh Khan says when Pakistan won a match feels like his father won.	Shah Rukh Khan is promoting his movie "Pathan" and seeking blessings for its success.
+830	0.1543	0.0472	COVID-19 always had a greater survival rate than influenza.	Australians for Assange protest with Russian flags, supporting western neutrality in the Ukrainian conflict.
+831	0.1541	0.0272	Saint Luke's Hospital of Kansas City suggesting that extensive research has shown that Vodka can kill novel Coronavirus	A photo of a person drinking alcohol with a caption about COVID-19.
+832	0.1540	0.1381	A patch on law enforcement officers in Portland is for “ZTI solutions, a PRIVATE contractor.”	Private security contractors in tactical gear, possibly armed.
+834	0.1540	0.1515	Over the past two years, employment is up.	A person expressing disappointment over inaccurate employment descriptions.
+837	0.1542	0.2404	Bilawal Bhutto dances to 'Besharam Rang'	A photo of Bilawal Bhutto, possibly with a quote or statement about Kashmir.
+838	0.1539	0.0000	exercise and a good diet enough to beat Covid 19	Anti-vaccination post promoting natural immunity over COVID-19 vaccination.
+840	0.1537	0.1010	Did KKK members carry a banner endorsing Trump?	A photo of Donald Trump with a red "X" or a caption criticizing his presidency.
+842	0.1540	0.2566	Joe Biden introduced a man in blackface as Michael Jackson at a dinner in 1987	Photo of Joe Biden in blackface during a skit.
+844	0.1538	0.0677	Fatima Sheikh is the same actress who played Aamir Khan's daughter in the film Dangal. Fatima played the role of Geeta Phogat in the film. Today she has become the third wife of Aamir Khan. Well this is his personal matter. But this same Aamir Khan will make Satyamev Jayate program and speak on the evils of Hindu child marriage and dowry system?? We live in a country where there are such hypocrites who talk about women's rights in "TV-programs" like Satyamev but are ready to marry the girl whose father they play	Photo of Aamir Khan and Fatima Sheikh from the film Dangal.
+846	0.1534	0.0000	Juvenile Jamia shooter's marksheet is not authentic	A screenshot of a CBSE website page showing no students enrolled in class IX and X.
+847	0.1533	0.0840	Tax to be levied on Ganga Aarti and priests in Varanasi	A photo of a Hindu ritual or temple with a red stamp "Tax Imposed" overlaid on it.
+848	0.1532	0.1282	Long Covid is just a side effect of Covid-19 vaccinations.	A screenshot of a video game, likely Elden Ring, showing a character's move set.
+849	0.1531	0.1149	U.K. has revoked covid vaccine for pregnant women	A link to the UK government's assessment report for the Pfizer COVID-19 vaccine.
+851	0.1530	0.1131	A social media user claims that one can get rid of acne scars quickly by applying potato slices. We fact-checked and found the claim to be Mostly False.	A person with potato slices on their face.
+852	0.1527	0.0276	A video of singing school girls dressed in burkha has gone viral on social media with claims that Hindu and Sikh girls are also forced to wear the burkha. But we found the claims to be false.	A person made a mistake, looking shocked or disappointed.
+854	0.1524	0.0000	Post implies current Ukraine situation will require U.S. to send soldiers	Photo of Volodymyr Zelenskyy speaking, with a serious expression.
+855	0.1522	0.0789	Face masks are useless at stopping Covid-19 because the gaps in them are larger than a Covid-19 viral particle.	A protest against mask mandates and perceived government overreach.
+857	0.1521	0.0840	Former MLA supporters in Shaheen Bagh raised slogans of 'Pakistan Zindabad	A video shows a politician, Asif Mohammad Khan, with children chanting "Pakistan Zindabad" in Delhi.
+858	0.1518	0.0396	The eighth edition of the Pakistan Super League (PSL) has been postponed following an attack on the Karachi police chief’s office on 17 February 2023. The Asia Cup cricket tournament is moving out of Pakistan.	Cricket stadium with empty seats, possibly in Karachi.
+862	0.1523	0.3796	A post claims that the 1918 influenza bout had a deadly second wave after quarantine restrictions were lifted.	A photo of people rejoicing in crowded streets after quarantine lift, followed by a graph of the 1918 Spanish Flu's 3 waves.
+863	0.1525	0.2083	'Sardar with no mustache' involved in farmers protest	A Sikh man without a mustache is shown at a Delhi farmers' protest.
+864	0.1525	0.1471	Video of two drones playing volleyball on a building rooftop	People playing virtual volleyball indoors using a projector and motion sensors.
+865	0.1523	0.0885	Says the Army officer who listened to the July 25 call with Ukraine and testified about it is a "Never Trumper."	A tweet from Donald Trump about the impeachment inquiry.
+866	0.1525	0.2363	A photo of Cristiano Ronaldo supporting the Argentina football team with Lionel Messi’s photo a TV Screen behind him	A photo or video of Lionel Messi playing for Argentina's national team.
+867	0.1525	0.1369	Look who is sitting in the Chief Minister’s chair – Sheetal Mhatre	A tiger is sitting on a rock near a river.
+868	0.1530	0.4018	Vaccine mRNA in breast milk is “a disaster for infants.”	A Twitter post from @alberen about mRNA in breast milk, with a photo of a study or graph likely shown.
+869	0.1527	0.0000	(IMAGEN) “REVOLUCIÓN MOLECULAR DISIPADA”, VÍNCULO DE ALEXIS LÓPEZ TAPIA CON EL NEONAZISMO	A Chilean Nazi is labeled as the ideologist of Uribismo's new paradigm.
+872	0.1527	0.1578	Satanic Temple’s fight over abortion rights, Roe v Wade so far is unsuccessful	A Satanic Temple member holding a sign or certificate, possibly with a gavel or court background.
+873	0.1526	0.1261	Delta variant of Covid 19 is connected to Delta Power Solutions	No photo or video is present, only a text post speculating about 5G towers and the delta variant.
+874	0.1524	0.0463	Despite pledging to meet net zero emissions by 2050, on current track the government will only meet their target by 2099.	Graph showing fluctuating annual emissions reductions over time.
+876	0.1528	0.3600	Says "Trump's willing to build his vanity project of a border wall with money budgeted for a school for military children."
+	Photo of a border wall with a caption criticizing Trump's funding decision.
+880	0.1526	0.0391	Fact check: Biden said he created a large 'voter fraud organization'	Image of Donald Trump with a caption criticizing his honesty.
+881	0.1526	0.1709	90% of people in hospital with Covid-19 are unvaccinated.	Photo: A medical machine with tubes, likely an ECMO device, in a hospital setting.
+882	0.1527	0.1683	The car that was waiting to welcome #Stalin in Delhi today... Zoom a little and see under the #tyre...	A car with a person under the tire, likely a security measure.
+883	0.1523	0.0000	Pepto-Bismol medicine can treat Covid infection	A photo of a medical warning or Pepto Bismol packaging.
+884	0.1523	0.1220	Video shows trashed ballots for Donald Trump.	A person expressing frustration or annoyance in a situation.
+885	0.1524	0.2164	a monkey hugging an old woman while she was lying on a bed was shot in Jamsande village in Konkan	A photo or video of a monkey in a home, possibly with an elderly woman.
+886	0.1523	0.0909	Mandatory Covid-19 vaccinations have just been passed “under the radar” by the European Council.	EU flag with a syringe or vaccine bottle in the foreground.
+887	0.1520	0.0284	WHO report – ‘No vegetarian in the world was found to have been infected with COVID-19’	A diagram or illustration of coronavirus structure and its interaction with animal protein.
+888	0.1521	0.2126	A poll showed a fall in Conservative support following several recent news reports about lobbying and leaks.	A graph or chart showing a 5% decline in approval ratings.
+890	0.1519	0.0142	President Joe Biden said, “To the Ukrainian people, I say to them all, you might you might they they might be able to make right and they’re not able to.”	A photo of a motivational quote on a scenic background.
+891	0.1521	0.2763	A 1978 public information film warning children of the dangers of playing near live wires has been banned.	A public service announcement showing kids being shocked by live wires is banned.
+892	0.1519	0.0691	Trade with the EU is more than double that with Australia, Canada, India, New Zealand and the USA combined.	A map showing international trade routes with neighboring countries.
+893	0.1517	0.0376	Narendra Modi calls himself 'lootera' at a public rally in West Bengal	A person regrets their life as a thief, wishing their mother had intervened earlier.
+894	0.1515	0.0654	Free bus for women- 1. Only the whiteboard is free but the number of buses is less. 2. The whiteboard bus arrives rarely once and cannot get on the bus in a hurry. 3. You need to pick up the bus from the bus depot. But it will be too late… some bus depots are so far away from home” We have to wait the rest of our lives if we see a whiteboard bus,” by a woman. Will CM talk about this? – Gayathri Raguramm	A woman is sitting on a bus, looking uncomfortable.
+896	0.1517	0.2304	An injured puppy has been found at the side of the road.	A photo of an injured dog, likely with visible wounds, is being shared to locate its owner.
+898	0.1517	0.1412	Image of 100's of buses on roads claimed to be from 'Migrant Buses' arranged by Priyanka Gandhi	Photo of Priyanka Gandhi helping workers or affected people.
+901	0.1518	0.2296	A medical alert says to stop the use of anti-inflammatories for pain or high temperatures.	Warning: avoid anti-inflammatories for COVID-19, use paracetamol instead due to potential link to severe cases.
+905	0.1516	0.0562	Some recovered Covid-19 patients catch the disease again	A medical expert discusses COVID-19 reinfection, citing rare cases and attributing discrepancies to sampling issues.
+908	0.1515	0.1056	PCR tests aren't about testing for Covid-19, they are cloning devices.	A lab technician adding a reagent to a Covid-19 sample, triggering a chain reaction.
+911	0.1514	0.0820	Langlade, Maricopa counties and Texas unanimously rejected results of 2020 election	A video of a Wisconsin county supervisor's meeting discussing a controversial topic.
+912	0.1515	0.2299	Aftab Ameen Poonawala is Parsi, not Muslim	A man with a Muslim name, Aftab, is being targeted by media.
+913	0.1514	0.0746	Health Ministry issued this Coronavirus advisory	A warning post about the Coronavirus outbreak with prevention methods and symptoms.
+914	0.1514	0.1609	Currently those without symptoms who test positive on a lateral flow are asked to order a PCR test and can only begin their isolation period when they receive the second result.	COVID-19 isolation guidelines based on symptoms and test results.
+918	0.1512	0.0588	If you have a runny nose and sputum, you have a common cold, not Covid-19.	Laundry instructions for washing and drying clothes.
+919	0.1509	0.0180	Says Joe Biden “is restricting travel for Americans into Mexico, but is keeping the border wide open for illegal aliens to walk right into our country.”	A person agreeing with someone or something.
+920	0.1507	0.0481	If you have migraines just put a little bit under your tongue, within minutes you will feel your migraine easing up	Photo of CBD oil or medication under the tongue.
+921	0.1510	0.2864	Photo of Aamir Khan’s ex-wife Kiran Rao walking alone on a street after her divorce	A photo of Aamir Khan, possibly with a fearless expression, is likely shown.
+926	0.1507	0.0235	The claim: A representative of Gov. Greg Abbott offered to pay the family of a Uvalde victim to oppose gun restrictions	No image or video found.
+929	0.1505	0.0323	The claim: Former President Barack Obama jokingly tweeted about President Donald Trump's Twitter ban	A short message on Twitter, 280 characters or less.
+930	0.1504	0.0980	What Allen West got wrong about COVID-19 and treatments	A person, Col. Angela West, tested positive for COVID despite being vaccinated, and is suspending in-person events.
+933	0.1501	0.0000	Fact-checking the Democratic presidential debate in Manchester, New Hampshire	Pete Buttigieg declares support for Medicare for All.
+935	0.1499	0.0629	Says U.S. Sen. Sherrod Brown and Dayton Mayor Nan Whaley were "totally misrepresenting what took place inside of the hospital. Their news conference after I left for El Paso was a fraud. It bore no resemblance to what took place with those incredible people that I was so lucky to meet and spend time with."	A photo of a politician visiting Dayton, Ohio, meeting with victims and officials.
+936	0.1497	0.0217	"I think I’ve done more for the black community than any other president, and let’s take a pass on Abraham Lincoln, cause he did good although it’s always questionable, you know in other words, the end result."	Trump criticizes Minneapolis mayor, threatening to send National Guard.
+937	0.1495	0.0877	lotus root can prevent cancer	A medical oncologist discusses the link between diet and cancer risk.
+941	0.1494	0.0952	Malala Yousafzai has been “silent about the cries of women and children suffering at the hands of the Taliban.” 
+	A screenshot of a tweet criticizing Malala with the name censored.
+942	0.1493	0.0773	Sky News said there were 2 million people at the People’s Vote march on Saturday 19 October.	A crowd of 2.2 million people, as measured by German TV technology.
+945	0.1490	0.0000	The claim: President Donald Trump nominated himself to the Supreme Court	Image of a news headline on a screen or newspaper.
+950	0.1488	0.0588	Messenger RNA COVID-19 vaccines aren't real vaccines, vaccination will turn body into 'virus-making factory'	A photo of a person with a syringe or vaccine, possibly with a sinister tone.
+952	0.1489	0.2118	A viral photo of jailed Afghan children is not from any prison in Sindh.	A photo of a foreign minister on an official trip abroad was posted.
+953	0.1490	0.1923	Satochi, a tablet advertised as a treatment for diabetes, is approved by the FDA (Food and Drug Administration)	An advertisement for SATOCHI, a diabetes treatment tablet.
+957	0.1490	0.1411	Several social media posts claim the aphelion phenomenon will increase Earth’s temperature till august. We fact-checked and found the claim to be False. The aphelion phenomenon affects the duration of weather, not the intensity.	A photo or video of Earth and Sun with distance measurements, illustrating the Aphelion phenomenon.
+958	0.1487	0.0265	Some people were caught while hoarding hundreds of EVM machines in a strong room in Bina Bazar in Madhya Pradesh	Photo of Indian news headline or broadcast screen.
+960	0.1485	0.0460	"'Defunding' to a lot of people means break up the police forces, and either that or don't give them any money, so essentially they are breaking it up."	A tweet from Donald Trump regarding the George Floyd protests.
+962	0.1484	0.0997	Says Joe Biden said “Why am I doing this? Why? What is my real aim?”
+	Joe Biden looks confused and questioning himself.
+963	0.1483	0.0919	It may not be the lost city of Atlantis, but a social media post questions whether another island – Australia – is also the product of fiction.	Image of a meme with text claiming Australia is fake.
+964	0.1481	0.0560	Says “every time" the DSCC endorsed someone in North Carolina's U.S. Senate primary, "and the person they didn’t support was black, the candidate they picked ended up losing."	A person is commenting on Democratic primary elections and their impact on general elections.
+969	0.1483	0.2336	Nasal flu vaccines given to children contain strep A.	A child receiving a flu nasal spray, then a child in hospital with strep infection.
+970	0.1482	0.0824	“We will be over 290 electoral votes on Election Night ... no matter what they (Democrats) try to do, what kind of hijinks or lawsuits or whatever kind of nonsense they try to pull off.”	A news clip of Jason Miller speaking with Stephanopoulos about election night results.
+971	0.1480	0.0439	Trump installed this wall at the White House on Election Day	A photo on Facebook appears suspicious, but reverse image search yields no results.
+978	0.1479	0.1282	Health Minister Greg Hunt admitted no one in the country had died from a locally transmitted case of COVID-19.	A photo of a news headline or article about COVID-19 deaths in aged care.
+981	0.1479	0.1257	Haldiram’s group is currently under the ownership of a Muslim; Yogesh & Naresh, grandsons of Haldiram sold the company to a Muslim	A photo of Haldiram's namkeen products with a red "X" marked through it.
+983	0.1478	0.1250	The US Food and Drug Administration (FDA) has revoked a PCR Covid-19 test.	MHRA reviews information with NHS Test and Trace to assess product risks in the UK.
+984	0.1478	0.1477	"After (the assault weapon ban) passed in 1994, there was a big drop in mass shooting deaths. When the ban expired, they rose again."	A person advocating for stricter gun control laws to reduce mass shooting deaths.
+985	0.1477	0.0658	Video shows President Joe Biden saying "bingo" after a reporter says: “To gun owners out there who say, well, a Biden administration means they’re going to come for my guns.”	A photo of a divided US Congress or a protest, contrasting the official State of the Union address.
+986	0.1475	0.0521	Vaccines have led to a significant rise in mortality and journalists are writing cover-up stories to explain away deaths.	A creative or innovative photo or video that impresses the viewer.
+989	0.1473	0.0316	Deaths from Covid-19 vaccines are being miscategorised as deaths from “Sudden Adult Death Syndrome”.	A sad face emoji.
+992	0.1472	0.0815	“Asteroid warning: NASA tracks a 4KM killer rock on approach - Could end human civilisation.”	Asteroid 1998 OR2 passing Earth by 3.9 million miles on April 29.
+994	0.1472	0.1563	On confirming a Supreme Court justice nominee in a presidential election year.	A person supports President Trump filling Justice Ginsburg's vacancy.
+995	0.1471	0.0919	According to NHS England figures, the number of people whose death certificates show death from only coronavirus, i.e. no pre-existing condition, is 1,265.	A photo of a person holding a sign or display showing a large number, significantly less than 40,000.
+999	0.1469	0.0599	The EU has ordered organic farmers to treat sick animals with homeopathy in a new directive.	No visual content is present, only a text quote from an article.
+1002	0.1468	0.0816	A poll of 1,500 drivers by motoring campaign group Fair Fuel UK found 91% supported cyclists being forced to 'have road registration IDs'.	A person suggests requiring registration plates and insurance for cyclists.
+1004	0.1467	0.0962	Drink plenty of water	A photo of a person wearing a mask, with a caption about coronavirus prevention.
+1007	0.1465	0.0809	A tweet is being shared widely with a screenshot of another tweet from the President’s account that asks doctors to not charge some of their patients who cannot afford.	A person is holding a sign listing their extensive education fees.
+1009	0.1464	0.0613	The World Health Organisation said that women of childbearing age should be banned from drinking alcohol.	A document or report is being revised for clarity.
+1010	0.1464	0.1460	On not confirming a Supreme Court justice nominee in a presidential election year.	A person supports President Trump filling Justice Ginsburg's vacancy.
+1011	0.1465	0.2078	The image shown is that of a man whose hand is infected, It is a disease.	A photo or video of a disease caused by eating semolina (semo) from India.
+1012	0.1467	0.2778	People are performing Yoga in Japan un huge numbers	People in Japan practicing Surya Namaskar and chanting Gayatri Mantra.
+1013	0.1466	0.0909	There are 40,000 third-level students in northwest Ireland, with 7,000 graduates annually ready for employment.	Business leaders and officials gather for a breakfast meeting in Philadelphia.
+1014	0.1471	0.3853	A Facebook post claims former Fijian prime minister Laisenia Qarase died from the coronavirus.	Former Fiji PM Laisenia Qarase died from Covid-19 in Suva.
+1016	0.1468	0.0000	Post implies Moderna suing Pfizer for patent infringement proves the COVID-19 vaccine was developed before the pandemic	A person invites their old audience to a new podcast, after being censored and banned on Instagram.
+1017	0.1467	0.0909	An image of rising homicide rates in seven cities with the words, “Welcome to President Biden’s America.”	Photo of a chaotic or divided American scene under Biden's presidency.
+1019	0.1472	0.3945	Viral video of Lord Ganesh from Nagpur	A photo or video of a miraculous Ganesh idol at Mr. Bangre's residence in Nagpur.
+1021	0.1470	0.0610	Covid-19 infections have increased after the vaccines	A person is shown looking frustrated, with an elephant in the room, symbolizing a taboo topic.
+1024	0.1467	0.0000	Says he "rebuilt the military"	An inspirational quote or motto, possibly with a bright background or bold font.
+1025	0.1468	0.1914	“Mike Lee advised Trump's legal challenges to overturn our election” and “was one of only two senators who was in on the scheme.”	A political ad criticizing Senator Mike Lee's involvement with Trump and the January 6th insurrection.
+1026	0.1468	0.1411	In #Gujrat the broom will fly, dust will not be visible, the paw will not be visible because the people of Gujarat have decided to drive away #मोदी_हटाओ_देश_बचाओ #भाजपा @ArvindKejriwal  Gujarat. #मोदी_हटाओ_देश_बचाओ	A photo of Arvind Kejriwal with a broom, symbolizing the AAP party, in Gujarat.
+1027	0.1468	0.1408	Liquor mafia fighting, being intoxicated!
+
+Law and order has broken down, Nitish Kumar is insensitive!!
+
+Are the liquor mafia beating the police only? If the police is also not safe, then how will the general public be protected, Nitish Kumar?
+
+#फर्जी_शराबबंदी
+
+#JungleRajReturns	A photo of a person, likely Nitish Kumar, with a caption criticizing the current state of law and order.
+1028	0.1466	0.0296	China has closed down its last coronavirus hospital. Not enough new cases to support them.	A person in a Paris lockdown room shares positive COVID-19 updates from around the world.
+1031	0.1464	0.0595	Image showing infiltrators who have entered into Assam	Protesters marching, holding signs, and demanding freedom from corruption.
+1032	0.1462	0.0360	These images are all from Black Lives Matter protests in London last weekend.	A photo of injured police officers, likely with bruises or bandages.
+1033	0.1461	0.0806	Diane Abbott said that Chairman Mao did more good than harm.	Photo of Mao Zedong or Chiang Kai-shek, Chinese leaders during WWII and post-feudal era.
+1035	0.1459	0.0289	An audio on whatsapp appeared in Italy in the last few hours, it shows coronavirus deaths (Sars-Cov-2) closed in body bags abandoned in bulk in the corridors of a hospital in Bergamo. The video is only shared through whatsapp in Italy so it's impossible to give you an italian link.	Hospitales y morgues en Guayaquil, Ecuador, están sobrepasados con cuerpos de coronavirus.
+1036	0.1457	0.0460	During the 1918 flu pandemic, San Francisco residents formed the “Anti-Mask League.” San Francisco “was ultimately one of the cities that suffered the most with a high death rate.”	A crowd of over 2,000 people protesting mandatory masking ordinance.
+1037	0.1458	0.2112	People shouting ‘Allahu Akbar’ in Europe after the Coronavirus outbreak	People reading Kalma and chanting "Allahu Akbar" on European streets.
+1038	0.1460	0.2232	Gin-soaked raisins be used to cure arthritic pain	A person making gin-soaked raisins and preparing for a taste test.
+1039	0.1459	0.1389	A Facebook post claims the COVID-19 crisis is the latest in a once-every-100-years historical pattern of pandemics.	Image shows 4 illustrations of pandemics: Plague, Cholera, Spanish Flu, and Coronavirus, each 100 years apart.
+1040	0.1458	0.0435	The Washington Court has ordered to train Modi on Covid safety measures! Modi met the American delegates without wearing a mask properly. Hence the Court has ordered to train him on Covid safety measures.	A photo of the White House with a coronavirus warning sign.
+1042	0.1458	0.1597	Video of PM Narendra Modi revealing his formula to fool the poor people of this country	A photo of a Bengali magician with a caption criticizing politicians for deceiving the poor.
+1043	0.1456	0.0732	The claim: President Trump claimed doctors said 'they've never seen a body kill the coronavirus' like his body	A photo of the President and First Lady with COVID-19 test results or in quarantine.
+1046	0.1456	0.1111	To the end of 2021, there have been 156,924 deaths within 28 days of a positive Covid-19 test in the UK.	A photo of an elderly person, likely with a caption criticizing COVID-19 vaccination for young children.
+1050	0.1453	0.0000	Sonali Phogat’s dance video captured in Goa on the night of her death	गोवा में एक बुजुर्ग महिला नाचते हुए।
+1053	0.1451	0.0450	Video shows hidden theater “where elites sacrifice kids.”	A disturbing or revealing image/video exposing a harsh reality or truth.
+1056	0.1456	0.3833	There was a 1500 per cent increase in 2021 on the previous record year for miscarriages/stillbirths in the US.	A graph or chart showing a significant increase in stillbirths and miscarriages in the US from 2009 to 2021.
+1057	0.1453	0.0000	DMK should stop the casteism unleashed on VCK as they have power in their hands – Vaiko	Tamil-language template for creating fake news, with a red flag symbol.
+1060	0.1452	0.0662	The claim: In 2016, Trump said, "Anyone being investigated by the FBI is not qualified to be the President of the United States" on six different dates	A false claim about Donald Trump is debunked by USA Today fact checkers.
+1061	0.1450	0.0593	Oxford is to trial a “climate lockdown” which will confine residents to their local neighbourhood and require them to ask permission to leave.	Traffic cameras and filters manage congestion in a UK city, with possible route changes during peak hours.
+1062	0.1453	0.3167	Visuals of a temple located in Madhya Pradesh’s Anuppur district completely built using teak wood	A Hindu temple in Anuppur, Madhya Pradesh, made entirely of Sagwan wood.
+1066	0.1451	0.0305	The World Health Organisation boss has announced the approach of another pandemic - the Marburg virus.	A Qantas pilot is shown speaking out against vaccine mandates.
+1068	0.1449	0.0256	Says the "when the looting starts, the shooting starts," phrase "means two things, very different things. One is, if there’s looting, there’s probably going to be shooting, and that’s not as a threat, that’s really just a fact, because that’s what happens. And the other is, if there’s looting, there’s going to be shooting."	A tweet from Donald Trump about the George Floyd protests, threatening military intervention.
+1069	0.1449	0.1316	Pregnant women are 22 times more likely to die from Covid-19 than other women.	A graph showing COVID-19 death rates in pregnant women, correlated with ICU availability by region.
+1070	0.1448	0.0829	Nehru is taking OATH in Britain as a British citizen to become PM of India ? What a mockery, Congress has done to the Indian citizen & his family continude with GANDHI surname ? Reason India should be “CONGRESS MUKT BHARAT”!	A person is shown taking an oath with a British flag or queen's symbol nearby.
+1074	0.1446	0.0253	All Filipinos, whether rich or poor, are entitled to the government’s cash assistance of P5,000 to P8,000	A person questioning if the DSWD understands something.
+1078	0.1443	0.0000	Norway has reclassified the coronavirus as 'no more dangerous than ... flu'	A Norwegian flag or map with a green checkmark or thumbs up.
+1079	0.1442	0.1143	The EU did not help Britain during the Falklands War, and instead sent weapons to Argentina.	European countries united against Argentina with an arms embargo and halted imports.
+1082	0.1440	0.0191	The UK has signed an agreement that says for every asylum seeker it sends to Rwanda, it will bring back one vulnerable refugee to the UK.	A government official is speaking at a press conference.
+1083	0.1439	0.0806	Sen. Marco Rubio signed a 2021 letter that “supports waivers that would reduce visual track inspections.”	Criticism of Secretary Pete for handling a derailment and allegedly lying about a letter.
+1084	0.1438	0.0638	One in five Britons are resorting to 'DIY dentistry' due to a drought of NHS dental appointments, according to a recent poll.	A dentist or doctor holding a temporary filling kit.
+1085	0.1435	0.0000	The claim: Animal agriculture is the biggest contributor to climate change	Eco-friendly clothing made from natural or recycled materials with water-based inks.
+1086	0.1435	0.1471	Taliban Flag hoisted in NEMA Office	Photo of NEMA DG's office with Taliban-like decor or Islamic extremist symbols.
+1087	0.1435	0.1196	Monkeypox is only circulating in countries where the Pfizer COVID-19 vaccine is being distributed and is used to advance the Great Reset	A person questioning the correlation between monkeypox and vaccinated countries.
+1088	0.1436	0.2317	A Facebook user is looking for their 87-year-old neighbour called Mr Andrew who went missing with his dog.	A photo of an 87-year-old man with dementia and his dog Rex.
+1090	0.1437	0.1926	As announced by PM Modi - If you have a function/party in your house and a lot of food is being wasted, please call 1098 (Anywhere in India) - The Child Helpline people will collect the food	A post about reducing food waste by donating excess food to children in need through India's Child Helpline (1098).
+1091	0.1435	0.0000	हमदर्द का स्वामित्व एक इस्लामिक संस्था मुस्लिम वक्फ बोर्ड के पास है। इसके सारे कर्मचारी मुसलमान है।	A photo of Hamdard company's logo or product packaging, specifically Ruhafza.
+1093	0.1433	0.0495	The Queen didn’t die on 8 September.	A person holding a sign protesting digital IDs and currency.
+1096	0.1434	0.1825	The claim: The Earth is flat because cities cannot be upside-down	A globe is shown with a red X marked through it, and a flat disc with an ice wall around it.
+1097	0.1434	0.1418	Tears of a Mother… The Debt on the Soul of Nation. #JusticeForRinkuSharma	A grieving mother crying, with a photo of Rinku Sharma in the background.
+1101	0.1432	0.0227	“Biden admits $5 gas is being done on purpose” and “this has been his plan all along.”	A politician criticizing Putin, then revealing it's a strategic move.
+1103	0.1431	0.1289	A Facebook user needs help to identify a young cyclist left unconscious following a recent hit and run incident.	A photo or video of an unconscious young girl in a hospital bed.
+1104	0.1430	0.0639	Various posts shared on social media platforms claims that monkeypox is the same as VAIDS, which is caused by Covid-vaccine. We fact-checked and found this claim to be False.	Image likely shows a person with a rash or lesions, possibly with a caption warning about vaccine-induced acquired immunodeficiency syndrome (VAIDS).
+1105	0.1431	0.2206	Lisa Murkowski, Susan Collins and Mitt Romney “are pro-pedophile.”	A photo or video likely shows a tweet or post criticizing Senators Murkowski, Collins, and Romney.
+1108	0.1430	0.0581	Says Marjorie Taylor Greene said “246 years ago Jesus Christ performed his miracle of making a single days worth of bullets last 8 days.”	A photo of national heroes or soldiers, likely in patriotic attire or poses.
+1109	0.1429	0.0931	Britain Mata Ki Jai. This photo is hard to find, should reach every phone. Let everyone know who is the traitor of the country. When the whole country was fighting with the British, some traitors were saluting the Queen of England. I have heard that their descendants call themselves patriots	Image of Indians saluting the British Queen during colonial rule.
+1110	0.1427	0.0000	4000 RSS workers arrested	Photo of Pakistan Army atrocities during Bangladesh Liberation War.
+1112	0.1425	0.0433	Says Voltaire said, “To learn who rules over you, simply find out who you are not allowed to criticize.”
+	A photo of Dr. Anthony Fauci with a caption criticizing blind trust in authority.
+1114	0.1426	0.2197	The Government of India’s Digitize India Platform (DIP) is providing part-time income for digitizing old government documents	A screenshot of the Digitize India platform website with a certificate issue notification.
+1115	0.1424	0.0442	The EU ‘divorce bill’ will cost £42 billion.	A graph showing estimated losses to fraud and error in UK COVID-19 schemes.
+1116	0.1425	0.1645	On 8 May 2021 the Genocide Act was repealed. Genocide is now legal.	A UK law document about the Genocide Act 1969, noting its repeal and pending changes.
+1117	0.1424	0.1150	"There’s danger involved in drop boxes. People need to think about it. Okay. Imagine someone decides ‘oh, there’s a drop box I’m just going to put some explosive and and blow it up and burn all of those ballots’ and now those votes don’t count at all."	Marco Rubio expresses concern about election safety, citing a hypothetical scenario of someone blowing up a ballot drop box.
+1119	0.1425	0.1562	monkeypox virus was made in Wuhan’s lab	A photo of President Biden and a Wuhan lab working on a monkeypox vaccine.
+1120	0.1424	0.0859	Ukrainian President Zelensky and Wife in their younger n happy days. Hmmm.. how, just in one mad moment, your life can turn upside down. Truly, life is an unfathomable paradox. This can happen to anyone of us. Just Pray	Photo of young Zelensky and his wife smiling together.
+1122	0.1423	0.0873	Senate Republicans' move to confirm Judge Amy Coney Barrett to the Supreme Court in an election year is "not constitutional."	Joe Biden criticizes Republicans for packing the court, calling it unconstitutional.
+1123	0.1421	0.0562	70% of Conservative constituencies and 60% of Labour constituencies voted to Leave in the EU referendum.	Election results with uncertain voting data.
+1124	0.1422	0.1712	A city centre fight was filmed in Luton as pubs re-opened in April 2021.	People are shown entering or sitting in a Luton pub.
+1128	0.1424	0.2548	Says Joe Biden was “wearing a wire” during the first presidential debate.	Photo of Joe Biden with a visible earpiece or wire.
+1129	0.1423	0.0785	Connecticut ballot initiative on early voting would "remove the requirement of a certified seal from certain ballots."	A tweet that got the user's Twitter account suspended.
+1131	0.1421	0.0735	The number of people going to Accident and Emergency is rising every year.	A graph or chart showing population growth and projections.
+1132	0.1420	0.0862	Under an 1866 Supreme Court ruling, stay-at-home orders are illegal and can be disregarded with impunity.	A person is expressing frustration with Democratic states overstepping their power.
+1134	0.1419	0.0549	The claim: Hunter Biden paid Joe Biden $50,000 a month in rent for home with classified documents  	A video of checkers pieces jumping in a playful manner.
+1136	0.1420	0.2295	Nrc started in assam.They have begun evicting people from their homes,the media doesn't show it ,they are already bought and gagged ,so it is our responsibility now to share this video.	A video shows people being evicted from their homes in Assam due to NRC.
+1137	0.1421	0.1701	From 1997-2010 Labour sold off the majority of NHS hospital buildings to private investors.	A person criticizing the Labour party's hypocrisy on NHS privatization.
+1139	0.1422	0.2030	A video shows an apartment building in Turkey collapsing after the massive earthquake that hit the country on 6 February 2023.	A massive earthquake strikes southern Turkey, causing hundreds of deaths.
+1141	0.1423	0.2015	A social media post claims the high number of false-positive results from COVID-19 tests is rendering reported case numbers meaningless and the testing of asymptomatic patients useless.	A person is expressing skepticism about COVID-19 case numbers and testing.
+1144	0.1425	0.2906	Having 10 or more sexual partners increases cancer risk by 90% for women and 69% for men.	A graph or chart showing no clear correlation between number of sexual partners and cancer risk.
+1145	0.1427	0.2675	23,000 Maricopa County Ballots Came From Voters Using a Previous Address?	Mail-in ballots sent to incorrect addresses in Maricopa County.
+1147	0.1427	0.1351	Modi ji play the baton, Delhi Police play the baton we are with you	Protesters blocking a road, with police or crowds in the background.
+1149	0.1428	0.1868	A video allegedly showing the West Bengal police assaulting the members of ISCKON, the Krishna cult, has gone viral on social media. We found the claims with the video to be misleading.	Video shows ISKCON members being beaten by West Bengal Police for selling Geeta.
+1150	0.1426	0.0325	The rate of extra investment in the NHS has fallen by 68% since 2010.	Empty or closed ambulance stations after being sold off.
+1154	0.1427	0.2044	"Pardons — Obama: 1,927, Trump: 26. And Trump is abusing that power?"	A photo comparing Obama's and Trump's pardon numbers.
+1155	0.1428	0.1706	Visuals of people shouting ‘Resign Modi’ in London after recent IT survey in BBC offices in India	Protesters in London hold signs against Indian income tax raid on BBC office.
+1160	0.1429	0.2232	Ratan Tata’s response on why he hasn’t become as rich as Mukesh Ambani	A video of Arvind Arora discussing Ratan Tata's heartfelt statement about Mukesh Ambani.
+1161	0.1429	0.1205	Good morning and HappyGaneshChaturthi to all my friends	A person wishing their friends a happy Ganesh Chaturthi morning.
+1162	0.1427	0.0321	As vice president, I don’t have any power [over] granting franchises. It will be up to Congress, the House of Representatives, and the Senate … we will abide by the decision of the branch of government that is empowered to do that.	Video of Sara Duterte discussing ABS-CBN franchise.
+1166	0.1428	0.2268	Over the summer the majority of arrivals in small boats from France—about 60%—have been Albanian nationals.	A graph or chart showing nationality breakdown of daily crossings, with Albanians at 60%.
+1168	0.1428	0.1351	French wages are 25% higher.	A photo of French protesters on strike, holding signs.
+1170	0.1426	0.0355	The Buffalo protester pushed to the ground “had been previously arrested 300 times. 82 times for incitement. Riots is what he does for a living.”	A photo shows Martin Gugino with a U.S. Park Police officer.

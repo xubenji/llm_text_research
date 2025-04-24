@@ -1,0 +1,9 @@
+root@localhost:~/llm/s3/data2# python3 overwrite_rows.py repetition_emphasis.txt metaphor.txt
+完成！共替换 182 行，结果已写入 final.txt
+root@localhost:~/llm/s3/data2# mv final.txt orginal.txt
+root@localhost:~/llm/s3/data2# python3 overwrite_rows.py orginal.txt analys_photo.txt
+完成！共替换 215 行，结果已写入 final.txt
+root@localhost:~/llm/s3/data2# python3 overwrite_rows.py orginal.txt politics.txt ^C
+root@localhost:~/llm/s3/data2# mv final.txt orginal.txt 
+root@localhost:~/llm/s3/data2# python3 overwrite_rows.py orginal.txt politics.txt
+完成！共替换 120 行，结果已写入 final.txt

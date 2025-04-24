@@ -2,7 +2,7 @@
 import sys
 import os
 
-def filter_third_column(input_path: str, threshold: float = 0.3):
+def filter_third_column(input_path: str, threshold: float = 0.29):
     # 构造输出文件名
     base, ext = os.path.splitext(input_path)
     output_path = f"{base}_filtered{ext or '.txt'}"

@@ -1,0 +1,10 @@
+root@localhost:~/llm/s3/data# python3 overwrite_rows.py repetition_emphasis.txt metaphor.txt
+完成！结果已写入 final.txt （共覆盖 38 条键）。
+root@localhost:~/llm/s3/data# mv final.txt origanl.txt
+root@localhost:~/llm/s3/data# rm repetition_emphasis.txt 
+root@localhost:~/llm/s3/data# python3 overwrite_rows.py origanl.txt analys_photo.txt
+完成！结果已写入 final.txt （共覆盖 66 条键）。
+root@localhost:~/llm/s3/data# rm origanl.txt 
+root@localhost:~/llm/s3/data# mv final.txt orginal.txt
+root@localhost:~/llm/s3/data# python3 overwrite_rows.py orginal.txt politics.txt 
+完成！结果已写入 final.txt （共覆盖 18 条键）。
